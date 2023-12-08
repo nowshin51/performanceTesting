@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702027724334,2559,HomePage,200,OK,User 1-13,text,true,,104203,236,50,50,https://www.daraz.com.bd/,269,0,193
+1702027724334,283,HomePage-0,301,Moved Permanently,User 1-13,text,true,,634,118,50,50,http://www.daraz.com.bd/,269,0,193
+1702027724632,2261,HomePage-1,200,OK,User 1-13,text,true,,103569,118,50,50,https://www.daraz.com.bd/,1576,0,1492
+1702027725723,1385,HomePage,200,OK,User 1-36,text,true,,104225,236,50,50,https://www.daraz.com.bd/,123,0,66
+1702027725723,123,HomePage-0,301,Moved Permanently,User 1-36,text,true,,634,118,50,50,http://www.daraz.com.bd/,123,0,66
+1702027725847,1261,HomePage-1,200,OK,User 1-36,text,true,,103591,118,50,50,https://www.daraz.com.bd/,349,0,276
+1702027725792,1702,HomePage,200,OK,User 1-37,text,true,,104224,236,50,50,https://www.daraz.com.bd/,127,0,56
+1702027725792,127,HomePage-0,301,Moved Permanently,User 1-37,text,true,,634,118,50,50,http://www.daraz.com.bd/,127,0,56
+1702027725920,1574,HomePage-1,200,OK,User 1-37,text,true,,103590,118,50,50,https://www.daraz.com.bd/,296,0,217
+1702027725864,1666,HomePage,200,OK,User 1-38,text,true,,104222,236,50,50,https://www.daraz.com.bd/,153,0,88
+1702027725864,153,HomePage-0,301,Moved Permanently,User 1-38,text,true,,634,118,50,50,http://www.daraz.com.bd/,153,0,88
+1702027726018,1512,HomePage-1,200,OK,User 1-38,text,true,,103588,118,50,50,https://www.daraz.com.bd/,263,0,200
+1702027724750,3686,HomePage,200,OK,User 1-20,text,true,,104205,236,50,50,https://www.daraz.com.bd/,117,0,59
+1702027724750,117,HomePage-0,301,Moved Permanently,User 1-20,text,true,,634,118,50,50,http://www.daraz.com.bd/,117,0,59
+1702027724868,3568,HomePage-1,200,OK,User 1-20,text,true,,103571,118,50,50,https://www.daraz.com.bd/,1406,0,1323
+1702027725608,2963,HomePage,200,OK,User 1-34,text,true,,104203,236,50,50,https://www.daraz.com.bd/,112,0,55
+1702027725608,112,HomePage-0,301,Moved Permanently,User 1-34,text,true,,634,118,50,50,http://www.daraz.com.bd/,112,0,55
+1702027725721,2850,HomePage-1,200,OK,User 1-34,text,true,,103569,118,50,50,https://www.daraz.com.bd/,998,0,896
+1702027725584,3350,HomePage,200,OK,User 1-32,text,true,,104203,236,50,50,https://www.daraz.com.bd/,132,0,73
+1702027725584,132,HomePage-0,301,Moved Permanently,User 1-32,text,true,,634,118,50,50,http://www.daraz.com.bd/,132,0,73
+1702027725717,3217,HomePage-1,200,OK,User 1-32,text,true,,103569,118,50,50,https://www.daraz.com.bd/,503,0,436
+1702027724689,4347,HomePage,200,OK,User 1-19,text,true,,104223,236,50,50,https://www.daraz.com.bd/,113,0,57
+1702027724689,113,HomePage-0,301,Moved Permanently,User 1-19,text,true,,634,118,50,50,http://www.daraz.com.bd/,113,0,57
+1702027724805,4231,HomePage-1,200,OK,User 1-19,text,true,,103589,118,50,50,https://www.daraz.com.bd/,1931,0,1832
+1702027724456,4884,HomePage,200,OK,User 1-15,text,true,,104204,236,50,50,https://www.daraz.com.bd/,147,0,68
+1702027724456,161,HomePage-0,301,Moved Permanently,User 1-15,text,true,,634,118,50,50,http://www.daraz.com.bd/,147,0,68
+1702027724635,4705,HomePage-1,200,OK,User 1-15,text,true,,103570,118,50,50,https://www.daraz.com.bd/,1558,0,1486
+1702027724214,5288,HomePage,200,OK,User 1-11,text,true,,104225,236,50,50,https://www.daraz.com.bd/,389,0,308
+1702027724214,403,HomePage-0,301,Moved Permanently,User 1-11,text,true,,634,118,50,50,http://www.daraz.com.bd/,389,0,308
+1702027724637,4865,HomePage-1,200,OK,User 1-11,text,true,,103591,118,50,50,https://www.daraz.com.bd/,1653,0,1584
+1702027725257,4264,HomePage,200,OK,User 1-28,text,true,,104208,236,50,50,https://www.daraz.com.bd/,113,0,57
+1702027725257,113,HomePage-0,301,Moved Permanently,User 1-28,text,true,,634,118,50,50,http://www.daraz.com.bd/,113,0,57
+1702027725371,4150,HomePage-1,200,OK,User 1-28,text,true,,103574,118,50,50,https://www.daraz.com.bd/,1009,0,942
+1702027724868,4680,HomePage,200,OK,User 1-22,text,true,,104222,236,50,50,https://www.daraz.com.bd/,111,0,55
+1702027724868,111,HomePage-0,301,Moved Permanently,User 1-22,text,true,,634,118,50,50,http://www.daraz.com.bd/,111,0,55
+1702027724980,4568,HomePage-1,200,OK,User 1-22,text,true,,103588,118,50,50,https://www.daraz.com.bd/,1696,0,1598
+1702027726101,3670,HomePage,200,OK,User 1-39,text,true,,104203,236,50,50,https://www.daraz.com.bd/,110,0,54
+1702027726101,110,HomePage-0,301,Moved Permanently,User 1-39,text,true,,634,118,50,50,http://www.daraz.com.bd/,110,0,54
+1702027726213,3558,HomePage-1,200,OK,User 1-39,text,true,,103569,118,50,50,https://www.daraz.com.bd/,377,0,266
+1702027723975,6006,HomePage,200,OK,User 1-7,text,true,,104204,236,50,50,https://www.daraz.com.bd/,634,0,542
+1702027723975,642,HomePage-0,301,Moved Permanently,User 1-7,text,true,,634,118,50,50,http://www.daraz.com.bd/,634,0,542
+1702027724628,5353,HomePage-1,200,OK,User 1-7,text,true,,103570,118,50,50,https://www.daraz.com.bd/,2246,0,1855
+1702027726609,3487,HomePage,200,OK,User 1-50,text,true,,104224,236,50,50,https://www.daraz.com.bd/,192,0,95
+1702027726609,192,HomePage-0,301,Moved Permanently,User 1-50,text,true,,634,118,50,50,http://www.daraz.com.bd/,192,0,95
+1702027726802,3294,HomePage-1,200,OK,User 1-50,text,true,,103590,118,50,50,https://www.daraz.com.bd/,425,0,319
+1702027725414,4857,HomePage,200,OK,User 1-31,text,true,,104204,236,50,50,https://www.daraz.com.bd/,119,0,55
+1702027725414,119,HomePage-0,301,Moved Permanently,User 1-31,text,true,,634,118,50,50,http://www.daraz.com.bd/,119,0,55
+1702027725534,4737,HomePage-1,200,OK,User 1-31,text,true,,103570,118,50,50,https://www.daraz.com.bd/,1349,0,1024
+1702027726556,3895,HomePage,200,OK,User 1-44,text,true,,104203,236,50,50,https://www.daraz.com.bd/,1191,0,1097
+1702027726556,1191,HomePage-0,301,Moved Permanently,User 1-44,text,true,,634,118,50,50,http://www.daraz.com.bd/,1191,0,1097
+1702027727749,2702,HomePage-1,200,OK,User 1-44,text,true,,103569,118,50,50,https://www.daraz.com.bd/,903,0,307
+1702027726604,3912,HomePage,200,OK,User 1-49,text,true,,104208,236,50,50,https://www.daraz.com.bd/,527,0,94
+1702027726604,528,HomePage-0,301,Moved Permanently,User 1-49,text,true,,634,118,50,50,http://www.daraz.com.bd/,527,0,94
+1702027727133,3383,HomePage-1,200,OK,User 1-49,text,true,,103574,118,50,50,https://www.daraz.com.bd/,401,0,300
+1702027724096,6547,HomePage,200,OK,User 1-9,text,true,,104208,236,50,50,https://www.daraz.com.bd/,508,0,431
+1702027724096,521,HomePage-0,301,Moved Permanently,User 1-9,text,true,,634,118,50,50,http://www.daraz.com.bd/,508,0,431
+1702027724626,6017,HomePage-1,200,OK,User 1-9,text,true,,103574,118,50,50,https://www.daraz.com.bd/,2390,0,2262
+1702027724274,6577,HomePage,200,OK,User 1-12,text,true,,104224,236,50,50,https://www.daraz.com.bd/,333,0,252
+1702027724274,343,HomePage-0,301,Moved Permanently,User 1-12,text,true,,634,118,50,50,http://www.daraz.com.bd/,333,0,252
+1702027724628,6223,HomePage-1,200,OK,User 1-12,text,true,,103590,118,50,50,https://www.daraz.com.bd/,1984,0,1880
+1702027724570,6290,HomePage,200,OK,User 1-17,text,true,,104208,236,50,50,https://www.daraz.com.bd/,119,0,60
+1702027724570,119,HomePage-0,301,Moved Permanently,User 1-17,text,true,,634,118,50,50,http://www.daraz.com.bd/,119,0,60
+1702027724692,6168,HomePage-1,200,OK,User 1-17,text,true,,103574,118,50,50,https://www.daraz.com.bd/,2315,0,2173
+1702027724155,6868,HomePage,200,OK,User 1-10,text,true,,104225,236,50,50,https://www.daraz.com.bd/,449,0,372
+1702027724155,462,HomePage-0,301,Moved Permanently,User 1-10,text,true,,634,118,50,50,http://www.daraz.com.bd/,449,0,372
+1702027724635,6388,HomePage-1,200,OK,User 1-10,text,true,,103591,118,50,50,https://www.daraz.com.bd/,1989,0,1890
+1702027726585,4693,HomePage,200,OK,User 1-48,text,true,,104224,236,50,50,https://www.daraz.com.bd/,201,0,105
+1702027726585,201,HomePage-0,301,Moved Permanently,User 1-48,text,true,,634,118,50,50,http://www.daraz.com.bd/,201,0,105
+1702027726787,4491,HomePage-1,200,OK,User 1-48,text,true,,103590,118,50,50,https://www.daraz.com.bd/,926,0,824
+1702027723899,7395,HomePage,200,OK,User 1-4,text,true,,104208,236,50,50,https://www.daraz.com.bd/,705,0,618
+1702027723899,718,HomePage-0,301,Moved Permanently,User 1-4,text,true,,634,118,50,50,http://www.daraz.com.bd/,705,0,618
+1702027724632,6662,HomePage-1,200,OK,User 1-4,text,true,,103574,118,50,50,https://www.daraz.com.bd/,2391,0,2251
+1702027726562,4939,HomePage,200,OK,User 1-45,text,true,,104224,236,50,50,https://www.daraz.com.bd/,198,0,101
+1702027724514,6987,HomePage,200,OK,User 1-16,text,true,,104204,236,50,50,https://www.daraz.com.bd/,1122,0,1066
+1702027726562,198,HomePage-0,301,Moved Permanently,User 1-45,text,true,,634,118,50,50,http://www.daraz.com.bd/,198,0,101
+1702027726762,4739,HomePage-1,200,OK,User 1-45,text,true,,103590,118,50,50,https://www.daraz.com.bd/,1227,0,1124
+1702027724514,1122,HomePage-0,301,Moved Permanently,User 1-16,text,true,,634,118,50,50,http://www.daraz.com.bd/,1122,0,1066
+1702027725637,5864,HomePage-1,200,OK,User 1-16,text,true,,103570,118,50,50,https://www.daraz.com.bd/,1419,0,845
+1702027724036,7469,HomePage,200,OK,User 1-8,text,true,,104203,236,50,50,https://www.daraz.com.bd/,568,0,482
+1702027724036,581,HomePage-0,301,Moved Permanently,User 1-8,text,true,,634,118,50,50,http://www.daraz.com.bd/,568,0,482
+1702027724637,6868,HomePage-1,200,OK,User 1-8,text,true,,103569,118,50,50,https://www.daraz.com.bd/,2481,0,2372
+1702027725301,7150,HomePage,200,OK,User 1-29,text,true,,104204,236,50,50,https://www.daraz.com.bd/,115,0,55
+1702027725301,115,HomePage-0,301,Moved Permanently,User 1-29,text,true,,634,118,50,50,http://www.daraz.com.bd/,115,0,55
+1702027725417,7034,HomePage-1,200,OK,User 1-29,text,true,,103570,118,50,50,https://www.daraz.com.bd/,1242,0,1138
+1702027726565,7886,HomePage,200,OK,User 1-46,text,true,,104204,236,50,50,https://www.daraz.com.bd/,193,0,98
+1702027726565,194,HomePage-0,301,Moved Permanently,User 1-46,text,true,,634,118,50,50,http://www.daraz.com.bd/,193,0,98
+1702027726760,7691,HomePage-1,200,OK,User 1-46,text,true,,103570,118,50,50,https://www.daraz.com.bd/,1164,0,1062
+1702027726573,9141,HomePage,200,OK,User 1-47,text,true,,104208,236,50,50,https://www.daraz.com.bd/,1191,0,1096
+1702027726573,1191,HomePage-0,301,Moved Permanently,User 1-47,text,true,,634,118,50,50,http://www.daraz.com.bd/,1191,0,1096
+1702027727766,7948,HomePage-1,200,OK,User 1-47,text,true,,103574,118,50,50,https://www.daraz.com.bd/,1629,0,1532
+1702027726558,11227,HomePage,200,OK,User 1-43,text,true,,104225,236,50,50,https://www.daraz.com.bd/,1196,0,1101
+1702027726558,1196,HomePage-0,301,Moved Permanently,User 1-43,text,true,,634,118,50,50,http://www.daraz.com.bd/,1196,0,1101
+1702027727755,10030,HomePage-1,200,OK,User 1-43,text,true,,103591,118,50,50,https://www.daraz.com.bd/,1984,0,1881
+1702027723898,16475,HomePage,200,OK,User 1-1,text,true,,104205,236,50,50,https://www.daraz.com.bd/,707,0,627
+1702027723898,718,HomePage-0,301,Moved Permanently,User 1-1,text,true,,634,118,50,50,http://www.daraz.com.bd/,707,0,627
+1702027724624,15749,HomePage-1,200,OK,User 1-1,text,true,,103571,118,50,50,https://www.daraz.com.bd/,2245,0,1918
+1702027728572,16712,Catagories,200,OK,User 1-34,text,true,,495774,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,277,0,0
+1702027728572,278,Catagories-0,301,Moved Permanently,User 1-34,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,277,0,0
+1702027728850,16434,Catagories-1,200,OK,User 1-34,text,true,,495112,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,507,0,0
+1702027730862,14976,Catagories,200,OK,User 1-17,text,true,,495782,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,308,0,0
+1702027730862,308,Catagories-0,301,Moved Permanently,User 1-17,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,308,0,0
+1702027731171,14667,Catagories-1,200,OK,User 1-17,text,true,,495120,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,450,0,0
+1702027730100,16561,Catagories,200,OK,User 1-50,text,true,,495772,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,97,0,0
+1702027730100,97,Catagories-0,301,Moved Permanently,User 1-50,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,97,0,0
+1702027730197,16464,Catagories-1,200,OK,User 1-50,text,true,,495110,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,457,0,0
+1702027730272,16601,Catagories,200,OK,User 1-31,text,true,,495782,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,102,0,0
+1702027730272,102,Catagories-0,301,Moved Permanently,User 1-31,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,102,0,0
+1702027730375,16498,Catagories-1,200,OK,User 1-31,text,true,,495120,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,411,0,0
+1702027731502,16536,Catagories,200,OK,User 1-16,text,true,,495804,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,97,0,0
+1702027731502,97,Catagories-0,301,Moved Permanently,User 1-16,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,97,0,0
+1702027731600,16438,Catagories-1,200,OK,User 1-16,text,true,,495142,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,397,0,0
+1702027726903,21299,Catagories,200,OK,User 1-13,text,true,,492406,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,111,0,0
+1702027726903,112,Catagories-0,301,Moved Permanently,User 1-13,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,111,0,0
+1702027727015,21187,Catagories-1,200,OK,User 1-13,text,true,,491744,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,473,0,0
+1702027732452,16805,Catagories,200,OK,User 1-29,text,true,,495780,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,102,0,0
+1702027732452,102,Catagories-0,301,Moved Permanently,User 1-29,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,102,0,0
+1702027732555,16702,Catagories-1,200,OK,User 1-29,text,true,,495118,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,495,0,0
+1702027731502,18080,Catagories,200,OK,User 1-45,text,true,,495375,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027731502,94,Catagories-0,301,Moved Permanently,User 1-45,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027731597,17985,Catagories-1,200,OK,User 1-45,text,true,,494713,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1314,0,0
+1702027728935,20673,Catagories,200,OK,User 1-32,text,true,,495750,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,295,0,0
+1702027728935,296,Catagories-0,301,Moved Permanently,User 1-32,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,295,0,0
+1702027729231,20377,Catagories-1,200,OK,User 1-32,text,true,,495088,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,881,0,0
+1702027727495,22406,Catagories,200,OK,User 1-37,text,true,,495764,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,90,0,0
+1702027727495,90,Catagories-0,301,Moved Permanently,User 1-37,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,90,0,0
+1702027727586,22315,Catagories-1,200,OK,User 1-37,text,true,,495102,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1702,0,0
+1702027730853,19060,Catagories,200,OK,User 1-12,text,true,,495772,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,317,0,0
+1702027730853,318,Catagories-0,301,Moved Permanently,User 1-12,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,317,0,0
+1702027731171,18742,Catagories-1,200,OK,User 1-12,text,true,,495110,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,538,0,0
+1702027729549,20879,Catagories,200,OK,User 1-22,text,true,,495780,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,87,0,0
+1702027729549,87,Catagories-0,301,Moved Permanently,User 1-22,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,87,0,0
+1702027729636,20792,Catagories-1,200,OK,User 1-22,text,true,,495118,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,583,0,0
+1702027729982,20826,Catagories,200,OK,User 1-7,text,true,,495774,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,65,0,0
+1702027729982,65,Catagories-0,301,Moved Permanently,User 1-7,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,65,0,0
+1702027730048,20760,Catagories-1,200,OK,User 1-7,text,true,,495112,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,483,0,0
+1702027727531,23363,Catagories,200,OK,User 1-38,text,true,,495755,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027727531,94,Catagories-0,301,Moved Permanently,User 1-38,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027727625,23269,Catagories-1,200,OK,User 1-38,text,true,,495093,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,483,0,0
+1702027727109,24166,Catagories,200,OK,User 1-36,text,true,,495782,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,93,0,0
+1702027727109,93,Catagories-0,301,Moved Permanently,User 1-36,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,93,0,0
+1702027727202,24073,Catagories-1,200,OK,User 1-36,text,true,,495120,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,821,0,0
+1702027731295,20679,Catagories,200,OK,User 1-4,text,true,,495408,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,299,0,0
+1702027731295,299,Catagories-0,301,Moved Permanently,User 1-4,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,299,0,0
+1702027731595,20379,Catagories-1,200,OK,User 1-4,text,true,,494746,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,517,0,0
+1702027729037,23071,Catagories,200,OK,User 1-19,text,true,,495779,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,461,0,0
+1702027729037,462,Catagories-0,301,Moved Permanently,User 1-19,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,461,0,0
+1702027729499,22609,Catagories-1,200,OK,User 1-19,text,true,,495117,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,480,0,0
+1702027734452,17745,Catagories,200,OK,User 1-46,text,true,,495748,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,104,0,0
+1702027734452,104,Catagories-0,301,Moved Permanently,User 1-46,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,104,0,0
+1702027734557,17640,Catagories-1,200,OK,User 1-46,text,true,,495086,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,419,0,0
+1702027730517,22774,Catagories,200,OK,User 1-49,text,true,,492411,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027730517,94,Catagories-0,301,Moved Permanently,User 1-49,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027730612,22679,Catagories-1,200,OK,User 1-49,text,true,,491749,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,761,0,0
+1702027731025,23279,Catagories,200,OK,User 1-10,text,true,,495780,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,98,0,0
+1702027731025,98,Catagories-0,301,Moved Permanently,User 1-10,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,98,0,0
+1702027731124,23180,Catagories-1,200,OK,User 1-10,text,true,,495118,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,502,0,0
+1702027729342,26064,Catagories,200,OK,User 1-15,text,true,,495779,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,92,0,0
+1702027729342,92,Catagories-0,301,Moved Permanently,User 1-15,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,92,0,0
+1702027729434,25972,Catagories-1,200,OK,User 1-15,text,true,,495117,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,545,0,0
+1702027729503,27373,Catagories,200,OK,User 1-11,text,true,,496903,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,311,0,0
+1702027729503,311,Catagories-0,301,Moved Permanently,User 1-11,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,311,0,0
+1702027729815,27061,Catagories-1,200,OK,User 1-11,text,true,,496241,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,531,0,0
+1702027731506,26131,Catagories,200,OK,User 1-8,text,true,,495772,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,97,0,0
+1702027731506,97,Catagories-0,301,Moved Permanently,User 1-8,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,97,0,0
+1702027731604,26033,Catagories-1,200,OK,User 1-8,text,true,,495110,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,852,0,0
+1702027737786,20216,Catagories,200,OK,User 1-43,text,true,,495772,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,522,0,0
+1702027737786,522,Catagories-0,301,Moved Permanently,User 1-43,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,522,0,0
+1702027738309,19693,Catagories-1,200,OK,User 1-43,text,true,,495110,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,554,0,0
+1702027731279,26971,Catagories,200,OK,User 1-48,text,true,,495786,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027731279,94,Catagories-0,301,Moved Permanently,User 1-48,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027731374,26876,Catagories-1,200,OK,User 1-48,text,true,,495124,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,738,0,0
+1702027730452,27935,Catagories,200,OK,User 1-44,text,true,,495780,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,95,0,0
+1702027730452,95,Catagories-0,301,Moved Permanently,User 1-44,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,95,0,0
+1702027730547,27840,Catagories-1,200,OK,User 1-44,text,true,,495118,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,478,0,0
+1702027728443,30076,Catagories,200,OK,User 1-20,text,true,,495772,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,88,0,0
+1702027728443,88,Catagories-0,301,Moved Permanently,User 1-20,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,88,0,0
+1702027728532,29987,Catagories-1,200,OK,User 1-20,text,true,,495110,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,520,0,0
+1702027729522,29117,Catagories,200,OK,User 1-28,text,true,,495782,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,457,0,0
+1702027729522,457,Catagories-0,301,Moved Permanently,User 1-28,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,457,0,0
+1702027729980,28659,Catagories-1,200,OK,User 1-28,text,true,,495120,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,542,0,0
+1702027735716,23467,Catagories,200,OK,User 1-47,text,true,,495764,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,104,0,0
+1702027735716,105,Catagories-0,301,Moved Permanently,User 1-47,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,104,0,0
+1702027735822,23361,Catagories-1,200,OK,User 1-47,text,true,,495102,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,595,0,0
+1702027748040,13542,Sports,200,OK,User 1-16,text,true,,509002,252,50,50,https://www.daraz.com.bd/cycling/,276,0,0
+1702027748040,276,Sports-0,301,Moved Permanently,User 1-16,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,276,0,0
+1702027748317,13265,Sports-1,200,OK,User 1-16,text,true,,508360,126,50,50,https://www.daraz.com.bd/cycling/,452,0,0
+1702027726234,36953,HomePage,200,OK,User 1-40,text,true,,1165486,236,50,50,https://www.daraz.com.bd/,141,0,55
+1702027726234,141,HomePage-0,301,Moved Permanently,User 1-40,text,true,,634,118,50,50,http://www.daraz.com.bd/,141,0,55
+1702027726376,36811,HomePage-1,200,OK,User 1-40,text,true,,1164852,118,50,50,https://www.daraz.com.bd/,415,0,315
+1702027740379,23504,Catagories,200,OK,User 1-1,text,true,,495794,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,118,0,0
+1702027740379,118,Catagories-0,301,Moved Permanently,User 1-1,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,118,0,0
+1702027740497,23386,Catagories-1,200,OK,User 1-1,text,true,,495132,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,548,0,0
+1702027746875,19257,Sports,200,OK,User 1-31,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,111,0,0
+1702027746875,111,Sports-0,301,Moved Permanently,User 1-31,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,111,0,0
+1702027746987,19145,Sports-1,200,OK,User 1-31,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,463,0,0
+1702027730645,35494,Catagories,200,OK,User 1-9,text,true,,495796,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,102,0,0
+1702027730645,102,Catagories-0,301,Moved Permanently,User 1-9,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,102,0,0
+1702027730747,35392,Catagories-1,200,OK,User 1-9,text,true,,495134,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,597,0,0
+1702027729772,36380,Catagories,200,OK,User 1-39,text,true,,495774,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,265,0,0
+1702027729772,265,Catagories-0,301,Moved Permanently,User 1-39,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,265,0,0
+1702027730039,36113,Catagories-1,200,OK,User 1-39,text,true,,495112,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,486,0,0
+1702027723916,42704,HomePage,200,OK,User 1-6,text,true,,1165475,236,50,50,https://www.daraz.com.bd/,691,0,602
+1702027723916,701,HomePage-0,301,Moved Permanently,User 1-6,text,true,,634,118,50,50,http://www.daraz.com.bd/,691,0,602
+1702027724630,41990,HomePage-1,200,OK,User 1-6,text,true,,1164841,118,50,50,https://www.daraz.com.bd/,2009,0,1911
+1702027745840,21764,Sports,200,OK,User 1-17,text,true,,511324,252,50,50,https://www.daraz.com.bd/cycling/,103,0,0
+1702027745840,103,Sports-0,301,Moved Permanently,User 1-17,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,103,0,0
+1702027745944,21660,Sports-1,200,OK,User 1-17,text,true,,510682,126,50,50,https://www.daraz.com.bd/cycling/,397,0,0
+1702027746662,21048,Sports,200,OK,User 1-50,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,139,0,0
+1702027746662,139,Sports-0,301,Moved Permanently,User 1-50,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,139,0,0
+1702027746801,20909,Sports-1,200,OK,User 1-50,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,446,0,0
+1702027745285,22702,Sports,200,OK,User 1-34,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,72,0,0
+1702027745285,72,Sports-0,301,Moved Permanently,User 1-34,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,72,0,0
+1702027745357,22630,Sports-1,200,OK,User 1-34,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,499,0,0
+1702027754306,14040,Sports,200,OK,User 1-10,text,true,,508962,252,50,50,https://www.daraz.com.bd/cycling/,104,0,0
+1702027754306,104,Sports-0,301,Moved Permanently,User 1-10,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,104,0,0
+1702027754411,13935,Sports-1,200,OK,User 1-10,text,true,,508320,126,50,50,https://www.daraz.com.bd/cycling/,689,0,0
+1702027767604,1964,HomePage,200,OK,User 1-17,text,true,,104208,236,50,50,https://www.daraz.com.bd/,98,0,0
+1702027767604,98,HomePage-0,301,Moved Permanently,User 1-17,text,true,,634,118,50,50,http://www.daraz.com.bd/,98,0,0
+1702027767703,1865,HomePage-1,200,OK,User 1-17,text,true,,103574,118,50,50,https://www.daraz.com.bd/,93,0,0
+1702027749916,20518,Sports,200,OK,User 1-12,text,true,,508985,252,50,50,https://www.daraz.com.bd/cycling/,127,0,0
+1702027749916,127,Sports-0,301,Moved Permanently,User 1-12,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,127,0,0
+1702027750044,20390,Sports-1,200,OK,User 1-12,text,true,,508343,126,50,50,https://www.daraz.com.bd/cycling/,425,0,0
+1702027724393,46651,HomePage,200,OK,User 1-14,text,true,,1165475,236,50,50,https://www.daraz.com.bd/,216,0,134
+1702027724393,224,HomePage-0,301,Moved Permanently,User 1-14,text,true,,634,118,50,50,http://www.daraz.com.bd/,216,0,134
+1702027724632,46412,HomePage-1,200,OK,User 1-14,text,true,,1164841,118,50,50,https://www.daraz.com.bd/,2020,0,1926
+1702027750896,20294,Sports,200,OK,User 1-38,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,131,0,0
+1702027750896,131,Sports-0,301,Moved Permanently,User 1-38,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,131,0,0
+1702027751027,20163,Sports-1,200,OK,User 1-38,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,540,0,0
+1702027724639,46586,HomePage,200,OK,User 1-18,text,true,,1165460,236,50,50,https://www.daraz.com.bd/,112,0,55
+1702027724639,112,HomePage-0,301,Moved Permanently,User 1-18,text,true,,634,118,50,50,http://www.daraz.com.bd/,112,0,55
+1702027724754,46471,HomePage-1,200,OK,User 1-18,text,true,,1164826,118,50,50,https://www.daraz.com.bd/,1553,0,1483
+1702027767711,3815,HomePage,200,OK,User 1-50,text,true,,104205,236,50,50,https://www.daraz.com.bd/,111,0,0
+1702027767711,112,HomePage-0,301,Moved Permanently,User 1-50,text,true,,634,118,50,50,http://www.daraz.com.bd/,111,0,0
+1702027767823,3703,HomePage-1,200,OK,User 1-50,text,true,,103571,118,50,50,https://www.daraz.com.bd/,99,0,0
+1702027723898,48390,HomePage,200,OK,User 1-2,text,true,,1165475,236,50,50,https://www.daraz.com.bd/,710,0,628
+1702027723898,718,HomePage-0,301,Moved Permanently,User 1-2,text,true,,634,118,50,50,http://www.daraz.com.bd/,710,0,628
+1702027724622,47666,HomePage-1,200,OK,User 1-2,text,true,,1164841,118,50,50,https://www.daraz.com.bd/,2048,0,1946
+1702027724996,47389,HomePage,200,OK,User 1-24,text,true,,1165459,236,50,50,https://www.daraz.com.bd/,113,0,57
+1702027724996,113,HomePage-0,301,Moved Permanently,User 1-24,text,true,,634,118,50,50,http://www.daraz.com.bd/,113,0,57
+1702027725110,47275,HomePage-1,200,OK,User 1-24,text,true,,1164825,118,50,50,https://www.daraz.com.bd/,1083,0,1016
+1702027750809,21645,Sports,200,OK,User 1-7,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,292,0,0
+1702027750809,292,Sports-0,301,Moved Permanently,User 1-7,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,292,0,0
+1702027751102,21352,Sports-1,200,OK,User 1-7,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,589,0,0
+1702027749584,22970,Sports,200,OK,User 1-45,text,true,,508985,252,50,50,https://www.daraz.com.bd/cycling/,121,0,0
+1702027749584,121,Sports-0,301,Moved Permanently,User 1-45,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,121,0,0
+1702027749706,22848,Sports-1,200,OK,User 1-45,text,true,,508343,126,50,50,https://www.daraz.com.bd/cycling/,441,0,0
+1702027749902,22741,Sports,200,OK,User 1-37,text,true,,508964,252,50,50,https://www.daraz.com.bd/cycling/,140,0,0
+1702027749902,140,Sports-0,301,Moved Permanently,User 1-37,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,140,0,0
+1702027750043,22600,Sports-1,200,OK,User 1-37,text,true,,508322,126,50,50,https://www.daraz.com.bd/cycling/,468,0,0
+1702027767988,4672,HomePage,200,OK,User 1-34,text,true,,104222,236,50,50,https://www.daraz.com.bd/,95,0,0
+1702027767988,95,HomePage-0,301,Moved Permanently,User 1-34,text,true,,634,118,50,50,http://www.daraz.com.bd/,95,0,0
+1702027768083,4577,HomePage-1,200,OK,User 1-34,text,true,,103588,118,50,50,https://www.daraz.com.bd/,737,0,0
+1702027748203,24648,Sports,200,OK,User 1-13,text,true,,508964,252,50,50,https://www.daraz.com.bd/cycling/,108,0,0
+1702027748203,108,Sports-0,301,Moved Permanently,User 1-13,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,108,0,0
+1702027748311,24540,Sports-1,200,OK,User 1-13,text,true,,508322,126,50,50,https://www.daraz.com.bd/cycling/,420,0,0
+1702027751277,21691,Sports,200,OK,User 1-36,text,true,,508970,252,50,50,https://www.daraz.com.bd/cycling/,121,0,0
+1702027751277,121,Sports-0,301,Moved Permanently,User 1-36,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,121,0,0
+1702027751398,21570,Sports-1,200,OK,User 1-36,text,true,,508328,126,50,50,https://www.daraz.com.bd/cycling/,575,0,0
+1702027750429,23634,Sports,200,OK,User 1-22,text,true,,508978,252,50,50,https://www.daraz.com.bd/cycling/,99,0,0
+1702027750429,99,Sports-0,301,Moved Permanently,User 1-22,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,99,0,0
+1702027750529,23534,Sports-1,200,OK,User 1-22,text,true,,508336,126,50,50,https://www.daraz.com.bd/cycling/,506,0,0
+1702027726551,47863,HomePage,200,OK,User 1-42,text,true,,1165462,236,50,50,https://www.daraz.com.bd/,1296,0,96
+1702027726551,1296,HomePage-0,301,Moved Permanently,User 1-42,text,true,,634,118,50,50,http://www.daraz.com.bd/,1296,0,96
+1702027727850,46564,HomePage-1,200,OK,User 1-42,text,true,,1164828,118,50,50,https://www.daraz.com.bd/,682,0,587
+1702027763188,11439,Catagories,200,OK,User 1-40,text,true,,495796,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,105,0,0
+1702027763188,105,Catagories-0,301,Moved Permanently,User 1-40,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,105,0,0
+1702027763293,11334,Catagories-1,200,OK,User 1-40,text,true,,495134,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,514,0,0
+1702027723898,50789,HomePage,200,OK,User 1-3,text,true,,1165482,236,50,50,https://www.daraz.com.bd/,708,0,628
+1702027723898,718,HomePage-0,301,Moved Permanently,User 1-3,text,true,,634,118,50,50,http://www.daraz.com.bd/,708,0,628
+1702027724624,50063,HomePage-1,200,OK,User 1-3,text,true,,1164848,118,50,50,https://www.daraz.com.bd/,1660,0,1593
+1702027724927,49834,HomePage,200,OK,User 1-23,text,true,,1166645,236,50,50,https://www.daraz.com.bd/,110,0,55
+1702027724927,111,HomePage-0,301,Moved Permanently,User 1-23,text,true,,634,118,50,50,http://www.daraz.com.bd/,110,0,55
+1702027725040,49721,HomePage-1,200,OK,User 1-23,text,true,,1166011,118,50,50,https://www.daraz.com.bd/,1446,0,1121
+1702027751975,22852,Sports,200,OK,User 1-4,text,true,,508979,252,50,50,https://www.daraz.com.bd/cycling/,574,0,0
+1702027751975,574,Sports-0,301,Moved Permanently,User 1-4,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,574,0,0
+1702027752549,22278,Sports-1,200,OK,User 1-4,text,true,,508337,126,50,50,https://www.daraz.com.bd/cycling/,476,0,0
+1702027724819,50145,HomePage,200,OK,User 1-21,text,true,,1165481,236,50,50,https://www.daraz.com.bd/,111,0,55
+1702027724819,111,HomePage-0,301,Moved Permanently,User 1-21,text,true,,634,118,50,50,http://www.daraz.com.bd/,111,0,55
+1702027724931,50033,HomePage-1,200,OK,User 1-21,text,true,,1164847,118,50,50,https://www.daraz.com.bd/,2072,0,1678
+1702027768348,6806,HomePage,200,OK,User 1-10,text,true,,104203,236,50,50,https://www.daraz.com.bd/,531,0,0
+1702027768348,532,HomePage-0,301,Moved Permanently,User 1-10,text,true,,634,118,50,50,http://www.daraz.com.bd/,531,0,0
+1702027768880,6274,HomePage-1,200,OK,User 1-10,text,true,,103569,118,50,50,https://www.daraz.com.bd/,101,0,0
+1702027723899,51441,HomePage,200,OK,User 1-5,text,true,,1165439,236,50,50,https://www.daraz.com.bd/,709,0,619
+1702027723899,718,HomePage-0,301,Moved Permanently,User 1-5,text,true,,634,118,50,50,http://www.daraz.com.bd/,709,0,619
+1702027724627,50713,HomePage-1,200,OK,User 1-5,text,true,,1164805,118,50,50,https://www.daraz.com.bd/,1657,0,1594
+1702027758003,17942,Sports,200,OK,User 1-43,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,71,0,0
+1702027758003,71,Sports-0,301,Moved Permanently,User 1-43,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,71,0,0
+1702027758075,17870,Sports-1,200,OK,User 1-43,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,776,0,0
+1702027752198,24068,Sports,200,OK,User 1-46,text,true,,508940,252,50,50,https://www.daraz.com.bd/cycling/,110,0,0
+1702027752198,111,Sports-0,301,Moved Permanently,User 1-46,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,110,0,0
+1702027752309,23957,Sports-1,200,OK,User 1-46,text,true,,508298,126,50,50,https://www.daraz.com.bd/cycling/,461,0,0
+1702027759184,17100,Sports,200,OK,User 1-47,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,109,0,0
+1702027759184,109,Sports-0,301,Moved Permanently,User 1-47,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,109,0,0
+1702027759293,16991,Sports-1,200,OK,User 1-47,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,496,0,0
+1702027755407,21324,Sports,200,OK,User 1-15,text,true,,508969,252,50,50,https://www.daraz.com.bd/cycling/,134,0,0
+1702027755407,134,Sports-0,301,Moved Permanently,User 1-15,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,134,0,0
+1702027755541,21190,Sports-1,200,OK,User 1-15,text,true,,508327,126,50,50,https://www.daraz.com.bd/cycling/,411,0,0
+1702027772456,4356,HomePage,200,OK,User 1-7,text,true,,104223,236,50,50,https://www.daraz.com.bd/,93,0,0
+1702027772456,93,HomePage-0,301,Moved Permanently,User 1-7,text,true,,634,118,50,50,http://www.daraz.com.bd/,93,0,0
+1702027772550,4262,HomePage-1,200,OK,User 1-7,text,true,,103589,118,50,50,https://www.daraz.com.bd/,94,0,0
+1702027725184,51868,HomePage,200,OK,User 1-27,text,true,,1165459,236,50,50,https://www.daraz.com.bd/,120,0,62
+1702027725184,120,HomePage-0,301,Moved Permanently,User 1-27,text,true,,634,118,50,50,http://www.daraz.com.bd/,120,0,62
+1702027725305,51747,HomePage-1,200,OK,User 1-27,text,true,,1164825,118,50,50,https://www.daraz.com.bd/,1718,0,1606
+1702027758388,19208,Sports,200,OK,User 1-44,text,true,,508970,252,50,50,https://www.daraz.com.bd/cycling/,100,0,0
+1702027758388,100,Sports-0,301,Moved Permanently,User 1-44,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,100,0,0
+1702027758489,19107,Sports-1,200,OK,User 1-44,text,true,,508328,126,50,50,https://www.daraz.com.bd/cycling/,510,0,0
+1702027756878,20768,Sports,200,OK,User 1-11,text,true,,508932,252,50,50,https://www.daraz.com.bd/cycling/,103,0,0
+1702027756878,103,Sports-0,301,Moved Permanently,User 1-11,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,103,0,0
+1702027756981,20665,Sports-1,200,OK,User 1-11,text,true,,508290,126,50,50,https://www.daraz.com.bd/cycling/,493,0,0
+1702027725394,53215,HomePage,200,OK,User 1-30,text,true,,1165459,236,50,50,https://www.daraz.com.bd/,110,0,56
+1702027725394,110,HomePage-0,301,Moved Permanently,User 1-30,text,true,,634,118,50,50,http://www.daraz.com.bd/,110,0,56
+1702027725506,53103,HomePage-1,200,OK,User 1-30,text,true,,1164825,118,50,50,https://www.daraz.com.bd/,1397,0,1294
+1702027758641,20500,Sports,200,OK,User 1-28,text,true,,508962,252,50,50,https://www.daraz.com.bd/cycling/,221,0,0
+1702027758641,221,Sports-0,301,Moved Permanently,User 1-28,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,221,0,0
+1702027758863,20278,Sports-1,200,OK,User 1-28,text,true,,508320,126,50,50,https://www.daraz.com.bd/cycling/,520,0,0
+1702027725653,54907,HomePage,200,OK,User 1-35,text,true,,1166612,236,50,50,https://www.daraz.com.bd/,119,0,62
+1702027725653,119,HomePage-0,301,Moved Permanently,User 1-35,text,true,,634,118,50,50,http://www.daraz.com.bd/,119,0,62
+1702027725775,54785,HomePage-1,200,OK,User 1-35,text,true,,1165978,118,50,50,https://www.daraz.com.bd/,1047,0,826
+1702027725058,55574,HomePage,200,OK,User 1-25,text,true,,1165429,236,50,50,https://www.daraz.com.bd/,123,0,58
+1702027725058,123,HomePage-0,301,Moved Permanently,User 1-25,text,true,,634,118,50,50,http://www.daraz.com.bd/,123,0,58
+1702027725182,55450,HomePage-1,200,OK,User 1-25,text,true,,1164795,118,50,50,https://www.daraz.com.bd/,1037,0,964
+1702027752109,28926,Sports,200,OK,User 1-19,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,114,0,0
+1702027752109,114,Sports-0,301,Moved Permanently,User 1-19,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,114,0,0
+1702027752223,28812,Sports-1,200,OK,User 1-19,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,443,0,0
+1702027776732,4571,HomePage,200,OK,User 1-15,text,true,,104205,236,50,50,https://www.daraz.com.bd/,71,0,0
+1702027776732,71,HomePage-0,301,Moved Permanently,User 1-15,text,true,,634,118,50,50,http://www.daraz.com.bd/,71,0,0
+1702027776804,4499,HomePage-1,200,OK,User 1-15,text,true,,103571,118,50,50,https://www.daraz.com.bd/,96,0,0
+1702027758520,23006,Sports,200,OK,User 1-20,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,554,0,0
+1702027758520,554,Sports-0,301,Moved Permanently,User 1-20,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,554,0,0
+1702027759075,22451,Sports-1,200,OK,User 1-20,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,518,0,0
+1702027749258,32966,Sports,200,OK,User 1-29,text,true,,508962,252,50,50,https://www.daraz.com.bd/cycling/,200,0,0
+1702027749258,200,Sports-0,301,Moved Permanently,User 1-29,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,200,0,0
+1702027749460,32764,Sports-1,200,OK,User 1-29,text,true,,508320,126,50,50,https://www.daraz.com.bd/cycling/,813,0,0
+1702027758251,24206,Sports,200,OK,User 1-48,text,true,,508970,252,50,50,https://www.daraz.com.bd/cycling/,394,0,0
+1702027758251,394,Sports-0,301,Moved Permanently,User 1-48,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,394,0,0
+1702027758646,23811,Sports-1,200,OK,User 1-48,text,true,,508328,126,50,50,https://www.daraz.com.bd/cycling/,438,0,0
+1702027779143,3839,HomePage,200,OK,User 1-28,text,true,,104205,236,50,50,https://www.daraz.com.bd/,151,0,0
+1702027779143,151,HomePage-0,301,Moved Permanently,User 1-28,text,true,,634,118,50,50,http://www.daraz.com.bd/,151,0,0
+1702027779294,3688,HomePage-1,200,OK,User 1-28,text,true,,103571,118,50,50,https://www.daraz.com.bd/,660,0,0
+1702027757639,25801,Sports,200,OK,User 1-8,text,true,,508954,252,50,50,https://www.daraz.com.bd/cycling/,103,0,0
+1702027757639,103,Sports-0,301,Moved Permanently,User 1-8,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,103,0,0
+1702027757743,25697,Sports-1,200,OK,User 1-8,text,true,,508312,126,50,50,https://www.daraz.com.bd/cycling/,1058,0,0
+1702027753293,30651,Sports,200,OK,User 1-49,text,true,,508956,252,50,50,https://www.daraz.com.bd/cycling/,395,0,0
+1702027753293,395,Sports-0,301,Moved Permanently,User 1-49,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,395,0,0
+1702027753688,30256,Sports-1,200,OK,User 1-49,text,true,,508314,126,50,50,https://www.daraz.com.bd/cycling/,454,0,0
+1702027769569,14816,Catagories,200,OK,User 1-17,text,true,,495790,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,91,0,0
+1702027769569,91,Catagories-0,301,Moved Permanently,User 1-17,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,91,0,0
+1702027769660,14725,Catagories-1,200,OK,User 1-17,text,true,,495128,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,550,0,0
+1702027774828,9935,HomePage,200,OK,User 1-4,text,true,,104223,236,50,50,https://www.daraz.com.bd/,104,0,0
+1702027774828,104,HomePage-0,301,Moved Permanently,User 1-4,text,true,,634,118,50,50,http://www.daraz.com.bd/,104,0,0
+1702027774932,9831,HomePage-1,200,OK,User 1-4,text,true,,103589,118,50,50,https://www.daraz.com.bd/,99,0,0
+1702027763885,21499,Sports,200,OK,User 1-1,text,true,,511311,252,50,50,https://www.daraz.com.bd/cycling/,96,0,0
+1702027763885,96,Sports-0,301,Moved Permanently,User 1-1,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,96,0,0
+1702027763982,21402,Sports-1,200,OK,User 1-1,text,true,,510669,126,50,50,https://www.daraz.com.bd/cycling/,401,0,0
+1702027725118,60794,HomePage,200,OK,User 1-26,text,true,,1165470,236,50,50,https://www.daraz.com.bd/,118,0,61
+1702027725118,118,HomePage-0,301,Moved Permanently,User 1-26,text,true,,634,118,50,50,http://www.daraz.com.bd/,118,0,61
+1702027725237,60675,HomePage-1,200,OK,User 1-26,text,true,,1164836,118,50,50,https://www.daraz.com.bd/,3798,0,1559
+1702027749610,36532,Sports,200,OK,User 1-32,text,true,,508938,252,50,50,https://www.daraz.com.bd/cycling/,127,0,0
+1702027749610,127,Sports-0,301,Moved Permanently,User 1-32,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,127,0,0
+1702027749738,36404,Sports-1,200,OK,User 1-32,text,true,,508296,126,50,50,https://www.daraz.com.bd/cycling/,491,0,0
+1702027725599,61582,HomePage,200,OK,User 1-33,text,true,,1166615,236,50,50,https://www.daraz.com.bd/,120,0,58
+1702027725599,120,HomePage-0,301,Moved Permanently,User 1-33,text,true,,634,118,50,50,http://www.daraz.com.bd/,120,0,58
+1702027725721,61460,HomePage-1,200,OK,User 1-33,text,true,,1165981,118,50,50,https://www.daraz.com.bd/,1395,0,1284
+1702027782457,4742,HomePage,200,OK,User 1-48,text,true,,104204,236,50,50,https://www.daraz.com.bd/,101,0,0
+1702027782457,102,HomePage-0,301,Moved Permanently,User 1-48,text,true,,634,118,50,50,http://www.daraz.com.bd/,101,0,0
+1702027782559,4640,HomePage-1,200,OK,User 1-48,text,true,,103570,118,50,50,https://www.daraz.com.bd/,107,0,0
+1702027726551,62009,HomePage,200,OK,User 1-41,text,true,,1165454,236,50,50,https://www.daraz.com.bd/,313,0,96
+1702027726551,313,HomePage-0,301,Moved Permanently,User 1-41,text,true,,634,118,50,50,http://www.daraz.com.bd/,313,0,96
+1702027726865,61695,HomePage-1,200,OK,User 1-41,text,true,,1164820,118,50,50,https://www.daraz.com.bd/,12022,0,11555
+1702027772290,16522,Catagories,200,OK,User 1-2,text,true,,495393,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,192,0,95
+1702027772290,192,Catagories-0,301,Moved Permanently,User 1-2,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,192,0,95
+1702027772483,16329,Catagories-1,200,OK,User 1-2,text,true,,494731,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,577,0,0
+1702027771528,17611,Catagories,200,OK,User 1-50,text,true,,495796,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027771528,94,Catagories-0,301,Moved Permanently,User 1-50,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,94,0,0
+1702027771622,17517,Catagories-1,200,OK,User 1-50,text,true,,495134,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,535,0,0
+1702027775154,17207,Catagories,200,OK,User 1-10,text,true,,495383,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,109,0,0
+1702027775154,109,Catagories-0,301,Moved Permanently,User 1-10,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,109,0,0
+1702027775264,17097,Catagories-1,200,OK,User 1-10,text,true,,494721,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,543,0,0
+1702027771045,21593,Catagories,200,OK,User 1-14,text,true,,495773,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1484,0,88
+1702027771045,1484,Catagories-0,301,Moved Permanently,User 1-14,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,1484,0,88
+1702027772530,20108,Catagories-1,200,OK,User 1-14,text,true,,495111,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,559,0,0
+1702027777052,16925,Catagories,200,OK,User 1-27,text,true,,495810,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,187,0,91
+1702027777052,187,Catagories-0,301,Moved Permanently,User 1-27,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,187,0,91
+1702027777239,16738,Catagories-1,200,OK,User 1-27,text,true,,495148,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,543,0,0
+1702027772386,21891,Catagories,200,OK,User 1-24,text,true,,495375,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,193,0,96
+1702027772386,193,Catagories-0,301,Moved Permanently,User 1-24,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,193,0,96
+1702027772579,21698,Catagories-1,200,OK,User 1-24,text,true,,494713,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,421,0,0
+1702027775341,18944,Catagories,200,OK,User 1-5,text,true,,495789,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,193,0,95
+1702027775341,193,Catagories-0,301,Moved Permanently,User 1-5,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,193,0,95
+1702027775534,18751,Catagories-1,200,OK,User 1-5,text,true,,495127,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,389,0,0
+1702027766620,27779,Catagories,200,OK,User 1-6,text,true,,495382,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1286,0,710
+1702027766620,1286,Catagories-0,301,Moved Permanently,User 1-6,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,1286,0,710
+1702027767906,26493,Catagories-1,200,OK,User 1-6,text,true,,494720,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,542,0,0
+1702027766152,28509,Sports,200,OK,User 1-39,text,true,,508971,252,50,50,https://www.daraz.com.bd/cycling/,104,0,0
+1702027766152,104,Sports-0,301,Moved Permanently,User 1-39,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,104,0,0
+1702027766256,28405,Sports-1,200,OK,User 1-39,text,true,,508329,126,50,50,https://www.daraz.com.bd/cycling/,785,0,0
+1702027774688,20190,Catagories,200,OK,User 1-3,text,true,,495829,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,189,0,93
+1702027774688,189,Catagories-0,301,Moved Permanently,User 1-3,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,189,0,93
+1702027774878,20000,Catagories-1,200,OK,User 1-3,text,true,,495167,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,500,0,0
+1702027772662,22408,Catagories,200,OK,User 1-34,text,true,,495787,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,96,0,0
+1702027772662,96,Catagories-0,301,Moved Permanently,User 1-34,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,96,0,0
+1702027772758,22312,Catagories-1,200,OK,User 1-34,text,true,,495125,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,442,0,0
+1702027774763,20957,Catagories,200,OK,User 1-23,text,true,,495774,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,886,0,98
+1702027774763,886,Catagories-0,301,Moved Permanently,User 1-23,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,886,0,98
+1702027775649,20071,Catagories-1,200,OK,User 1-23,text,true,,495112,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,615,0,0
+1702027774627,22926,Sports,200,OK,User 1-40,text,true,,508980,252,50,50,https://www.daraz.com.bd/cycling/,109,0,0
+1702027774627,109,Sports-0,301,Moved Permanently,User 1-40,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,109,0,0
+1702027774736,22817,Sports-1,200,OK,User 1-40,text,true,,508338,126,50,50,https://www.daraz.com.bd/cycling/,476,0,0
+1702027776813,21532,Catagories,200,OK,User 1-7,text,true,,495787,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,82,0,0
+1702027776813,82,Catagories-0,301,Moved Permanently,User 1-7,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,82,0,0
+1702027776896,21449,Catagories-1,200,OK,User 1-7,text,true,,495125,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,500,0,0
+1702027771227,27127,Catagories,200,OK,User 1-18,text,true,,495826,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,212,0,141
+1702027771227,213,Catagories-0,301,Moved Permanently,User 1-18,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,212,0,141
+1702027771440,26914,Catagories-1,200,OK,User 1-18,text,true,,495164,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,763,0,0
+1702027774415,24318,Catagories,200,OK,User 1-42,text,true,,495774,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,696,0,96
+1702027774415,696,Catagories-0,301,Moved Permanently,User 1-42,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,696,0,96
+1702027775111,23622,Catagories-1,200,OK,User 1-42,text,true,,495112,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,507,0,0
+1702027778610,21050,Catagories,200,OK,User 1-30,text,true,,495385,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,531,0,100
+1702027778610,531,Catagories-0,301,Moved Permanently,User 1-30,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,531,0,100
+1702027779142,20518,Catagories-1,200,OK,User 1-30,text,true,,494723,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,500,0,0
+1702027780633,19449,Catagories,200,OK,User 1-25,text,true,,495774,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1157,0,1064
+1702027780633,1157,Catagories-0,301,Moved Permanently,User 1-25,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,1157,0,1064
+1702027781790,18292,Catagories-1,200,OK,User 1-25,text,true,,495112,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,590,0,0
+1702027774965,26404,Catagories,200,OK,User 1-21,text,true,,495780,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,196,0,94
+1702027774965,196,Catagories-0,301,Moved Permanently,User 1-21,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,196,0,94
+1702027775162,26207,Catagories-1,200,OK,User 1-21,text,true,,495118,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,515,0,0
+1702027788560,15760,Catagories,200,OK,User 1-41,text,true,,495788,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,185,0,90
+1702027788560,185,Catagories-0,301,Moved Permanently,User 1-41,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,185,0,90
+1702027788745,15575,Catagories-1,200,OK,User 1-41,text,true,,495126,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,801,0,206
+1702027781303,23215,Catagories,200,OK,User 1-15,text,true,,495788,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,101,0,0
+1702027781303,101,Catagories-0,301,Moved Permanently,User 1-15,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,101,0,0
+1702027781404,23114,Catagories-1,200,OK,User 1-15,text,true,,495126,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,483,0,0
+1702027784763,20451,Catagories,200,OK,User 1-4,text,true,,495782,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,406,0,303
+1702027784763,406,Catagories-0,301,Moved Permanently,User 1-4,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,406,0,303
+1702027785169,20045,Catagories-1,200,OK,User 1-4,text,true,,495120,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1457,0,911
+1702027782983,22389,Catagories,200,OK,User 1-28,text,true,,495774,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,740,0,0
+1702027782983,740,Catagories-0,301,Moved Permanently,User 1-28,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,740,0,0
+1702027783724,21648,Catagories-1,200,OK,User 1-28,text,true,,495112,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,866,0,0
+1702027780561,25049,Catagories,200,OK,User 1-35,text,true,,495748,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1803,0,1102
+1702027780561,1803,Catagories-0,301,Moved Permanently,User 1-35,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,1803,0,1102
+1702027782365,23245,Catagories-1,200,OK,User 1-35,text,true,,495086,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,543,0,0
+1702027761583,44590,HomePage,200,OK,User 1-16,text,true,,1166647,236,50,50,https://www.daraz.com.bd/,97,0,0
+1702027761583,97,HomePage-0,301,Moved Permanently,User 1-16,text,true,,634,118,50,50,http://www.daraz.com.bd/,97,0,0
+1702027761681,44492,HomePage-1,200,OK,User 1-16,text,true,,1166013,118,50,50,https://www.daraz.com.bd/,100,0,0
+1702027787180,19162,Catagories,200,OK,User 1-33,text,true,,495772,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,190,0,91
+1702027787180,190,Catagories-0,301,Moved Permanently,User 1-33,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,190,0,91
+1702027787370,18972,Catagories-1,200,OK,User 1-33,text,true,,495110,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,853,0,258
+1702027785912,20719,Catagories,200,OK,User 1-26,text,true,,495757,292,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1318,0,1094
+1702027785912,1318,Catagories-0,301,Moved Permanently,User 1-26,text,true,,662,146,50,50,http://www.daraz.com.bd/womens-traditional-clothing/,1318,0,1094
+1702027787230,19401,Catagories-1,200,OK,User 1-26,text,true,,495095,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,707,0,192
+1702027794400,12478,Sports,200,OK,User 1-6,text,true,,508938,252,50,50,https://www.daraz.com.bd/cycling/,110,0,0
+1702027794400,110,Sports-0,301,Moved Permanently,User 1-6,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,110,0,0
+1702027794511,12367,Sports-1,200,OK,User 1-6,text,true,,508296,126,50,50,https://www.daraz.com.bd/cycling/,587,0,193
+1702027788812,23145,Sports,200,OK,User 1-2,text,true,,509004,252,50,50,https://www.daraz.com.bd/cycling/,565,0,0
+1702027788812,565,Sports-0,301,Moved Permanently,User 1-2,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,565,0,0
+1702027789379,22578,Sports-1,200,OK,User 1-2,text,true,,508362,126,50,50,https://www.daraz.com.bd/cycling/,1598,0,1173
+1702027792362,19885,Sports,200,OK,User 1-10,text,true,,508961,252,50,50,https://www.daraz.com.bd/cycling/,194,0,97
+1702027792362,195,Sports-0,301,Moved Permanently,User 1-10,text,true,,642,126,50,50,http://www.daraz.com.bd/cycling/,194,0,97
+1702027792557,19690,Sports-1,200,OK,User 1-10,text,true,,508319,126,50,50,https://www.daraz.com.bd/cycling/,2100,0,1679
+1702027794278,18055,Sports,200,OK,User 1-24,text,true,,508956,252,49,49,https://www.daraz.com.bd/cycling/,227,0,0
+1702027794278,227,Sports-0,301,Moved Permanently,User 1-24,text,true,,642,126,49,49,http://www.daraz.com.bd/cycling/,227,0,0
+1702027794505,17828,Sports-1,200,OK,User 1-24,text,true,,508314,126,49,49,https://www.daraz.com.bd/cycling/,703,0,199
+1702027772555,40328,HomePage,200,OK,User 1-45,text,true,,1165459,236,49,49,https://www.daraz.com.bd/,105,0,0
+1702027772555,105,HomePage-0,301,Moved Permanently,User 1-45,text,true,,634,118,49,49,http://www.daraz.com.bd/,105,0,0
+1702027772661,40222,HomePage-1,200,OK,User 1-45,text,true,,1164825,118,49,49,https://www.daraz.com.bd/,100,0,0
+1702027775946,36937,HomePage,200,OK,User 1-43,text,true,,1166615,236,49,49,https://www.daraz.com.bd/,112,0,0
+1702027775946,112,HomePage-0,301,Moved Permanently,User 1-43,text,true,,634,118,49,49,http://www.daraz.com.bd/,112,0,0
+1702027776059,36824,HomePage-1,200,OK,User 1-43,text,true,,1165981,118,49,49,https://www.daraz.com.bd/,694,0,0
+1702027792639,20851,Sports,200,OK,User 1-14,text,true,,508978,252,49,49,https://www.daraz.com.bd/cycling/,105,0,0
+1702027792639,105,Sports-0,301,Moved Permanently,User 1-14,text,true,,642,126,49,49,http://www.daraz.com.bd/cycling/,105,0,0
+1702027792745,20745,Sports-1,200,OK,User 1-14,text,true,,508336,126,49,49,https://www.daraz.com.bd/cycling/,639,0,189
+1702027777597,36614,HomePage,200,OK,User 1-44,text,true,,1166615,236,49,49,https://www.daraz.com.bd/,98,0,0
+1702027777597,98,HomePage-0,301,Moved Permanently,User 1-44,text,true,,634,118,49,49,http://www.daraz.com.bd/,98,0,0
+1702027777695,36516,HomePage-1,200,OK,User 1-44,text,true,,1165981,118,49,49,https://www.daraz.com.bd/,98,0,0
+1702027789140,26297,Sports,200,OK,User 1-50,text,true,,508970,252,49,49,https://www.daraz.com.bd/cycling/,221,0,96
+1702027789140,221,Sports-0,301,Moved Permanently,User 1-50,text,true,,642,126,49,49,http://www.daraz.com.bd/cycling/,221,0,96
+1702027789362,26075,Sports-1,200,OK,User 1-50,text,true,,508328,126,49,49,https://www.daraz.com.bd/cycling/,1684,0,1191
+1702027795721,19970,Sports,200,OK,User 1-23,text,true,,508945,252,48,48,https://www.daraz.com.bd/cycling/,93,0,0
+1702027795721,93,Sports-0,301,Moved Permanently,User 1-23,text,true,,642,126,48,48,http://www.daraz.com.bd/cycling/,93,0,0
+1702027795814,19877,Sports-1,200,OK,User 1-23,text,true,,508303,126,48,48,https://www.daraz.com.bd/cycling/,706,0,258
+1702027772852,43053,HomePage,200,OK,User 1-13,text,true,,1165454,236,48,48,https://www.daraz.com.bd/,115,0,0
+1702027772852,115,HomePage-0,301,Moved Permanently,User 1-13,text,true,,634,118,48,48,http://www.daraz.com.bd/,115,0,0
+1702027772968,42937,HomePage-1,200,OK,User 1-13,text,true,,1164820,118,48,48,https://www.daraz.com.bd/,97,0,0
+1702027787198,29819,Catagories,200,OK,User 1-48,text,true,,495780,292,48,48,https://www.daraz.com.bd/womens-traditional-clothing/,1983,0,1097
+1702027787198,1984,Catagories-0,301,Moved Permanently,User 1-48,text,true,,662,146,48,48,http://www.daraz.com.bd/womens-traditional-clothing/,1983,0,1097
+1702027789183,27834,Catagories-1,200,OK,User 1-48,text,true,,495118,146,48,48,https://www.daraz.com.bd/womens-traditional-clothing/,725,0,185
+1702027794879,22512,Sports,200,OK,User 1-3,text,true,,508994,252,48,48,https://www.daraz.com.bd/cycling/,389,0,0
+1702027794879,389,Sports-0,301,Moved Permanently,User 1-3,text,true,,642,126,48,48,http://www.daraz.com.bd/cycling/,389,0,0
+1702027795269,22122,Sports-1,200,OK,User 1-3,text,true,,508352,126,48,48,https://www.daraz.com.bd/cycling/,1053,0,553
+1702027784385,33272,Sports,200,OK,User 1-17,text,true,,508962,252,48,48,https://www.daraz.com.bd/cycling/,92,0,0
+1702027784385,92,Sports-0,301,Moved Permanently,User 1-17,text,true,,642,126,48,48,http://www.daraz.com.bd/cycling/,92,0,0
+1702027784477,33180,Sports-1,200,OK,User 1-17,text,true,,508320,126,48,48,https://www.daraz.com.bd/cycling/,470,0,0
+1702027795071,23219,Sports,200,OK,User 1-34,text,true,,508961,252,47,47,https://www.daraz.com.bd/cycling/,467,0,108
+1702027795071,467,Sports-0,301,Moved Permanently,User 1-34,text,true,,642,126,47,47,http://www.daraz.com.bd/cycling/,467,0,108
+1702027795538,22752,Sports-1,200,OK,User 1-34,text,true,,508319,126,47,47,https://www.daraz.com.bd/cycling/,5656,0,5180
+1702027766132,52421,HomePage,200,OK,User 1-31,text,true,,1166628,236,46,46,https://www.daraz.com.bd/,101,0,0
+1702027766132,101,HomePage-0,301,Moved Permanently,User 1-31,text,true,,634,118,46,46,http://www.daraz.com.bd/,101,0,0
+1702027766233,52320,HomePage-1,200,OK,User 1-31,text,true,,1165994,118,46,46,https://www.daraz.com.bd/,106,0,0
+1702027794286,24337,Sports,200,OK,User 1-5,text,true,,511308,252,46,46,https://www.daraz.com.bd/cycling/,589,0,0
+1702027794286,590,Sports-0,301,Moved Permanently,User 1-5,text,true,,642,126,46,46,http://www.daraz.com.bd/cycling/,589,0,0
+1702027794876,23747,Sports-1,200,OK,User 1-5,text,true,,510666,126,46,46,https://www.daraz.com.bd/cycling/,1378,0,221
+1702027793979,25439,Sports,200,OK,User 1-27,text,true,,508978,252,46,46,https://www.daraz.com.bd/cycling/,622,0,0
+1702027793979,622,Sports-0,301,Moved Permanently,User 1-27,text,true,,642,126,46,46,http://www.daraz.com.bd/cycling/,622,0,0
+1702027794601,24817,Sports-1,200,OK,User 1-27,text,true,,508336,126,46,46,https://www.daraz.com.bd/cycling/,845,0,173
+1702027815691,3962,HomePage,200,OK,User 1-23,text,true,,104204,236,46,46,https://www.daraz.com.bd/,120,0,0
+1702027815691,120,HomePage-0,301,Moved Permanently,User 1-23,text,true,,634,118,46,46,http://www.daraz.com.bd/,120,0,0
+1702027815812,3841,HomePage-1,200,OK,User 1-23,text,true,,103570,118,46,46,https://www.daraz.com.bd/,422,0,0
+1702027776267,43405,HomePage,200,OK,User 1-46,text,true,,1165444,236,46,46,https://www.daraz.com.bd/,108,0,0
+1702027776267,109,HomePage-0,301,Moved Permanently,User 1-46,text,true,,634,118,46,46,http://www.daraz.com.bd/,108,0,0
+1702027776376,43296,HomePage-1,200,OK,User 1-46,text,true,,1164810,118,46,46,https://www.daraz.com.bd/,370,0,0
+1702027806346,13759,Sports,200,OK,User 1-33,text,true,,508980,252,46,46,https://www.daraz.com.bd/cycling/,103,0,0
+1702027806346,103,Sports-0,301,Moved Permanently,User 1-33,text,true,,642,126,46,46,http://www.daraz.com.bd/cycling/,103,0,0
+1702027806449,13656,Sports-1,200,OK,User 1-33,text,true,,508338,126,46,46,https://www.daraz.com.bd/cycling/,420,0,0
+1702027804322,16535,Sports,200,OK,User 1-41,text,true,,508978,252,46,46,https://www.daraz.com.bd/cycling/,100,0,0
+1702027804322,100,Sports-0,301,Moved Permanently,User 1-41,text,true,,642,126,46,46,http://www.daraz.com.bd/cycling/,100,0,0
+1702027804423,16434,Sports-1,200,OK,User 1-41,text,true,,508336,126,46,46,https://www.daraz.com.bd/cycling/,475,0,0
+1702027774065,47197,HomePage,200,OK,User 1-22,text,true,,1166620,236,46,46,https://www.daraz.com.bd/,109,0,0
+1702027774065,110,HomePage-0,301,Moved Permanently,User 1-22,text,true,,634,118,46,46,http://www.daraz.com.bd/,109,0,0
+1702027774175,47087,HomePage-1,200,OK,User 1-22,text,true,,1165986,118,46,46,https://www.daraz.com.bd/,103,0,0
+1702027818623,2851,HomePage,200,OK,User 1-5,text,true,,104204,236,46,46,https://www.daraz.com.bd/,156,0,0
+1702027818623,156,HomePage-0,301,Moved Permanently,User 1-5,text,true,,634,118,46,46,http://www.daraz.com.bd/,156,0,0
+1702027818779,2695,HomePage-1,200,OK,User 1-5,text,true,,103570,118,46,46,https://www.daraz.com.bd/,100,0,0
+1702027776285,45204,HomePage,200,OK,User 1-47,text,true,,1165457,236,46,46,https://www.daraz.com.bd/,445,0,0
+1702027776285,445,HomePage-0,301,Moved Permanently,User 1-47,text,true,,634,118,46,46,http://www.daraz.com.bd/,445,0,0
+1702027776731,44758,HomePage-1,200,OK,User 1-47,text,true,,1164823,118,46,46,https://www.daraz.com.bd/,69,0,0
+1702027782226,39675,HomePage,200,OK,User 1-29,text,true,,1166615,236,46,46,https://www.daraz.com.bd/,567,0,0
+1702027782226,567,HomePage-0,301,Moved Permanently,User 1-29,text,true,,634,118,46,46,http://www.daraz.com.bd/,567,0,0
+1702027782794,39107,HomePage-1,200,OK,User 1-29,text,true,,1165981,118,46,46,https://www.daraz.com.bd/,102,0,0
+1702027819422,2973,HomePage,200,OK,User 1-27,text,true,,104223,236,46,46,https://www.daraz.com.bd/,152,0,0
+1702027819422,152,HomePage-0,301,Moved Permanently,User 1-27,text,true,,634,118,46,46,http://www.daraz.com.bd/,152,0,0
+1702027819574,2821,HomePage-1,200,OK,User 1-27,text,true,,103589,118,46,46,https://www.daraz.com.bd/,334,0,0
+1702027772644,50329,HomePage,200,OK,User 1-37,text,true,,1166652,236,46,46,https://www.daraz.com.bd/,105,0,0
+1702027772644,105,HomePage-0,301,Moved Permanently,User 1-37,text,true,,634,118,46,46,http://www.daraz.com.bd/,105,0,0
+1702027772750,50223,HomePage-1,200,OK,User 1-37,text,true,,1166018,118,46,46,https://www.daraz.com.bd/,676,0,0
+1702027820106,3110,HomePage,200,OK,User 1-33,text,true,,104204,236,46,46,https://www.daraz.com.bd/,376,0,0
+1702027820106,376,HomePage-0,301,Moved Permanently,User 1-33,text,true,,634,118,46,46,http://www.daraz.com.bd/,376,0,0
+1702027820482,2734,HomePage-1,200,OK,User 1-33,text,true,,103570,118,46,46,https://www.daraz.com.bd/,153,0,0
+1702027781037,42330,HomePage,200,OK,User 1-19,text,true,,1165465,236,46,46,https://www.daraz.com.bd/,219,0,0
+1702027781037,219,HomePage-0,301,Moved Permanently,User 1-19,text,true,,634,118,46,46,http://www.daraz.com.bd/,219,0,0
+1702027781256,42111,HomePage-1,200,OK,User 1-19,text,true,,1164831,118,46,46,https://www.daraz.com.bd/,213,0,0
+1702027777647,45767,HomePage,200,OK,User 1-11,text,true,,1165450,236,46,46,https://www.daraz.com.bd/,315,0,0
+1702027777647,316,HomePage-0,301,Moved Permanently,User 1-11,text,true,,634,118,46,46,http://www.daraz.com.bd/,315,0,0
+1702027777963,45451,HomePage-1,200,OK,User 1-11,text,true,,1164816,118,46,46,https://www.daraz.com.bd/,106,0,0
+1702027772970,50970,HomePage,200,OK,User 1-36,text,true,,1166620,236,46,46,https://www.daraz.com.bd/,108,0,0
+1702027772970,108,HomePage-0,301,Moved Permanently,User 1-36,text,true,,634,118,46,46,http://www.daraz.com.bd/,108,0,0
+1702027773078,50862,HomePage-1,200,OK,User 1-36,text,true,,1165986,118,46,46,https://www.daraz.com.bd/,208,0,0
+1702027786142,38709,HomePage,200,OK,User 1-32,text,true,,1165444,236,46,46,https://www.daraz.com.bd/,167,0,66
+1702027786142,167,HomePage-0,301,Moved Permanently,User 1-32,text,true,,634,118,46,46,http://www.daraz.com.bd/,167,0,66
+1702027786309,38542,HomePage-1,200,OK,User 1-32,text,true,,1164810,118,46,46,https://www.daraz.com.bd/,290,0,197
+1702027798346,27504,Sports,200,OK,User 1-7,text,true,,508940,252,46,46,https://www.daraz.com.bd/cycling/,188,0,93
+1702027798346,189,Sports-0,301,Moved Permanently,User 1-7,text,true,,642,126,46,46,http://www.daraz.com.bd/cycling/,188,0,93
+1702027798535,27315,Sports-1,200,OK,User 1-7,text,true,,508298,126,46,46,https://www.daraz.com.bd/cycling/,699,0,198
+1702027798734,27120,Sports,200,OK,User 1-42,text,true,,508938,252,45,45,https://www.daraz.com.bd/cycling/,93,0,0
+1702027798734,94,Sports-0,301,Moved Permanently,User 1-42,text,true,,642,126,45,45,http://www.daraz.com.bd/cycling/,93,0,0
+1702027798828,27026,Sports-1,200,OK,User 1-42,text,true,,508296,126,45,45,https://www.daraz.com.bd/cycling/,777,0,194
+1702027771191,54762,HomePage,200,OK,User 1-38,text,true,,1165465,236,45,45,https://www.daraz.com.bd/,289,0,0
+1702027771191,289,HomePage-0,301,Moved Permanently,User 1-38,text,true,,634,118,45,45,http://www.daraz.com.bd/,289,0,0
+1702027771481,54472,HomePage-1,200,OK,User 1-38,text,true,,1164831,118,45,45,https://www.daraz.com.bd/,102,0,0
+1702027783441,42946,HomePage,200,OK,User 1-8,text,true,,1165459,236,45,45,https://www.daraz.com.bd/,108,0,0
+1702027783441,108,HomePage-0,301,Moved Permanently,User 1-8,text,true,,634,118,45,45,http://www.daraz.com.bd/,108,0,0
+1702027783549,42838,HomePage-1,200,OK,User 1-8,text,true,,1164825,118,45,45,https://www.daraz.com.bd/,282,0,0
+1702027805216,22304,Sports,200,OK,User 1-4,text,true,,508977,252,45,45,https://www.daraz.com.bd/cycling/,725,0,0
+1702027805216,725,Sports-0,301,Moved Permanently,User 1-4,text,true,,642,126,45,45,http://www.daraz.com.bd/cycling/,725,0,0
+1702027805942,21578,Sports-1,200,OK,User 1-4,text,true,,508335,126,45,45,https://www.daraz.com.bd/cycling/,882,0,0
+1702027785383,42384,HomePage,200,OK,User 1-1,text,true,,1165462,236,44,44,https://www.daraz.com.bd/,440,0,85
+1702027785383,440,HomePage-0,301,Moved Permanently,User 1-1,text,true,,634,118,44,44,http://www.daraz.com.bd/,440,0,85
+1702027785823,41944,HomePage-1,200,OK,User 1-1,text,true,,1164828,118,44,44,https://www.daraz.com.bd/,642,0,542
+1702027806174,21979,Catagories,200,OK,User 1-16,text,true,,495351,292,44,44,https://www.daraz.com.bd/womens-traditional-clothing/,183,0,87
+1702027806174,183,Catagories-0,301,Moved Permanently,User 1-16,text,true,,662,146,44,44,http://www.daraz.com.bd/womens-traditional-clothing/,183,0,87
+1702027806358,21795,Catagories-1,200,OK,User 1-16,text,true,,494689,146,44,44,https://www.daraz.com.bd/womens-traditional-clothing/,1058,0,574
+1702027783943,44536,HomePage,200,OK,User 1-49,text,true,,1165454,236,44,44,https://www.daraz.com.bd/,565,0,0
+1702027783943,565,HomePage-0,301,Moved Permanently,User 1-49,text,true,,634,118,44,44,http://www.daraz.com.bd/,565,0,0
+1702027784509,43970,HomePage-1,200,OK,User 1-49,text,true,,1164820,118,44,44,https://www.daraz.com.bd/,96,0,0
+1702027798354,30128,Sports,200,OK,User 1-18,text,true,,508948,252,44,44,https://www.daraz.com.bd/cycling/,97,0,0
+1702027798354,97,Sports-0,301,Moved Permanently,User 1-18,text,true,,642,126,44,44,http://www.daraz.com.bd/cycling/,97,0,0
+1702027798452,30030,Sports-1,200,OK,User 1-18,text,true,,508306,126,44,44,https://www.daraz.com.bd/cycling/,738,0,197
+1702027770441,58212,HomePage,200,OK,User 1-12,text,true,,1166639,236,44,44,https://www.daraz.com.bd/,1102,0,0
+1702027770441,1103,HomePage-0,301,Moved Permanently,User 1-12,text,true,,634,118,44,44,http://www.daraz.com.bd/,1102,0,0
+1702027771544,57109,HomePage-1,200,OK,User 1-12,text,true,,1166005,118,44,44,https://www.daraz.com.bd/,255,0,0
+1702027806633,22217,Sports,200,OK,User 1-26,text,true,,508963,252,44,44,https://www.daraz.com.bd/cycling/,761,0,0
+1702027806633,762,Sports-0,301,Moved Permanently,User 1-26,text,true,,642,126,44,44,http://www.daraz.com.bd/cycling/,761,0,0
+1702027807395,21455,Sports-1,200,OK,User 1-26,text,true,,508321,126,44,44,https://www.daraz.com.bd/cycling/,445,0,0
+1702027805611,23969,Sports,200,OK,User 1-35,text,true,,508930,252,44,44,https://www.daraz.com.bd/cycling/,107,0,0
+1702027805611,107,Sports-0,301,Moved Permanently,User 1-35,text,true,,642,126,44,44,http://www.daraz.com.bd/cycling/,107,0,0
+1702027805718,23862,Sports-1,200,OK,User 1-35,text,true,,508288,126,44,44,https://www.daraz.com.bd/cycling/,1674,0,1158
+1702027817017,12651,Sports,200,OK,User 1-48,text,true,,508988,252,44,44,https://www.daraz.com.bd/cycling/,94,0,0
+1702027817017,94,Sports-0,301,Moved Permanently,User 1-48,text,true,,642,126,44,44,http://www.daraz.com.bd/cycling/,94,0,0
+1702027817111,12557,Sports-1,200,OK,User 1-48,text,true,,508346,126,44,44,https://www.daraz.com.bd/cycling/,544,0,0
+1702027781527,48169,HomePage,200,OK,User 1-20,text,true,,1166623,236,43,43,https://www.daraz.com.bd/,352,0,0
+1702027781527,352,HomePage-0,301,Moved Permanently,User 1-20,text,true,,634,118,43,43,http://www.daraz.com.bd/,352,0,0
+1702027781880,47816,HomePage-1,200,OK,User 1-20,text,true,,1165989,118,43,43,https://www.daraz.com.bd/,720,0,0
+1702027805372,25686,Sports,200,OK,User 1-28,text,true,,508939,252,43,43,https://www.daraz.com.bd/cycling/,468,0,90
+1702027805372,468,Sports-0,301,Moved Permanently,User 1-28,text,true,,642,126,43,43,http://www.daraz.com.bd/cycling/,468,0,90
+1702027805840,25218,Sports-1,200,OK,User 1-28,text,true,,508297,126,43,43,https://www.daraz.com.bd/cycling/,697,0,197
+1702027766139,65901,Sports,200,OK,User 1-9,text,true,,508962,252,42,42,https://www.daraz.com.bd/cycling/,336,0,0
+1702027766139,336,Sports-0,301,Moved Permanently,User 1-9,text,true,,642,126,42,42,http://www.daraz.com.bd/cycling/,336,0,0
+1702027766475,65565,Sports-1,200,OK,User 1-9,text,true,,508320,126,42,42,https://www.daraz.com.bd/cycling/,432,0,0
+1702027799661,32453,Sports,200,OK,User 1-30,text,true,,508944,252,42,42,https://www.daraz.com.bd/cycling/,413,0,0
+1702027799661,413,Sports-0,301,Moved Permanently,User 1-30,text,true,,642,126,42,42,http://www.daraz.com.bd/cycling/,413,0,0
+1702027800075,32039,Sports-1,200,OK,User 1-30,text,true,,508302,126,42,42,https://www.daraz.com.bd/cycling/,1284,0,482
+1702027825855,6352,HomePage,200,OK,User 1-42,text,true,,104222,236,42,42,https://www.daraz.com.bd/,106,0,0
+1702027825855,106,HomePage-0,301,Moved Permanently,User 1-42,text,true,,634,118,42,42,http://www.daraz.com.bd/,106,0,0
+1702027825961,6246,HomePage-1,200,OK,User 1-42,text,true,,103588,118,42,42,https://www.daraz.com.bd/,99,0,0
+1702027828483,4517,HomePage,200,OK,User 1-18,text,true,,104206,236,42,42,https://www.daraz.com.bd/,101,0,0
+1702027828483,101,HomePage-0,301,Moved Permanently,User 1-18,text,true,,634,118,42,42,http://www.daraz.com.bd/,101,0,0
+1702027828584,4416,HomePage-1,200,OK,User 1-18,text,true,,103572,118,42,42,https://www.daraz.com.bd/,102,0,0
+1702027800084,33765,Sports,200,OK,User 1-25,text,true,,509010,252,42,42,https://www.daraz.com.bd/cycling/,98,0,0
+1702027800084,98,Sports-0,301,Moved Permanently,User 1-25,text,true,,642,126,42,42,http://www.daraz.com.bd/cycling/,98,0,0
+1702027800183,33666,Sports-1,200,OK,User 1-25,text,true,,508368,126,42,42,https://www.daraz.com.bd/cycling/,1671,0,1196
+1702027801369,32822,Sports,200,OK,User 1-21,text,true,,508938,252,42,42,https://www.daraz.com.bd/cycling/,104,0,0
+1702027801369,104,Sports-0,301,Moved Permanently,User 1-21,text,true,,642,126,42,42,http://www.daraz.com.bd/cycling/,104,0,0
+1702027801474,32717,Sports-1,200,OK,User 1-21,text,true,,508296,126,42,42,https://www.daraz.com.bd/cycling/,2738,0,2260
+1702027794662,39806,HomePage,200,OK,User 1-39,text,true,,1165444,236,42,42,https://www.daraz.com.bd/,286,0,77
+1702027794662,286,HomePage-0,301,Moved Permanently,User 1-39,text,true,,634,118,42,42,http://www.daraz.com.bd/,286,0,77
+1702027794949,39519,HomePage-1,200,OK,User 1-39,text,true,,1164810,118,42,42,https://www.daraz.com.bd/,1305,0,1143
+1702027812884,21950,Catagories,200,OK,User 1-45,text,true,,495750,292,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,2784,0,2164
+1702027812884,2784,Catagories-0,301,Moved Permanently,User 1-45,text,true,,662,146,42,42,http://www.daraz.com.bd/womens-traditional-clothing/,2784,0,2164
+1702027815667,19167,Catagories-1,200,OK,User 1-45,text,true,,495088,146,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,1351,0,721
+1702027819655,15621,Catagories,200,OK,User 1-23,text,true,,495385,292,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,129,0,0
+1702027819655,129,Catagories-0,301,Moved Permanently,User 1-23,text,true,,662,146,42,42,http://www.daraz.com.bd/womens-traditional-clothing/,129,0,0
+1702027819785,15491,Catagories-1,200,OK,User 1-23,text,true,,494723,146,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,528,0,0
+1702027832114,3822,HomePage,200,OK,User 1-30,text,true,,104222,236,42,42,https://www.daraz.com.bd/,103,0,0
+1702027832114,103,HomePage-0,301,Moved Permanently,User 1-30,text,true,,634,118,42,42,http://www.daraz.com.bd/,103,0,0
+1702027832217,3719,HomePage-1,200,OK,User 1-30,text,true,,103588,118,42,42,https://www.daraz.com.bd/,160,0,0
+1702027823218,13150,Catagories,200,OK,User 1-33,text,true,,495401,292,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,583,0,0
+1702027823218,583,Catagories-0,301,Moved Permanently,User 1-33,text,true,,662,146,42,42,http://www.daraz.com.bd/womens-traditional-clothing/,583,0,0
+1702027823802,12566,Catagories-1,200,OK,User 1-33,text,true,,494739,146,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,424,0,0
+1702027812884,24602,Catagories,200,OK,User 1-43,text,true,,495756,292,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,2787,0,2164
+1702027812884,2787,Catagories-0,301,Moved Permanently,User 1-43,text,true,,662,146,42,42,http://www.daraz.com.bd/womens-traditional-clothing/,2787,0,2164
+1702027815670,21816,Catagories-1,200,OK,User 1-43,text,true,,495094,146,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,1344,0,706
+1702027821490,16052,Catagories,200,OK,User 1-47,text,true,,495765,292,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,1180,0,1076
+1702027821490,1180,Catagories-0,301,Moved Permanently,User 1-47,text,true,,662,146,42,42,http://www.daraz.com.bd/womens-traditional-clothing/,1180,0,1076
+1702027822670,14872,Catagories-1,200,OK,User 1-47,text,true,,495103,146,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,640,0,156
+1702027834191,3904,HomePage,200,OK,User 1-21,text,true,,104222,236,42,42,https://www.daraz.com.bd/,99,0,0
+1702027834191,99,HomePage-0,301,Moved Permanently,User 1-21,text,true,,634,118,42,42,http://www.daraz.com.bd/,99,0,0
+1702027834291,3804,HomePage-1,200,OK,User 1-21,text,true,,103588,118,42,42,https://www.daraz.com.bd/,121,0,0
+1702027821475,16999,Catagories,200,OK,User 1-5,text,true,,495389,292,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,592,0,0
+1702027821475,592,Catagories-0,301,Moved Permanently,User 1-5,text,true,,662,146,42,42,http://www.daraz.com.bd/womens-traditional-clothing/,592,0,0
+1702027822068,16406,Catagories-1,200,OK,User 1-5,text,true,,494727,146,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,498,0,0
+1702027804520,34206,Sports,200,OK,User 1-15,text,true,,508964,252,42,42,https://www.daraz.com.bd/cycling/,1161,0,96
+1702027804520,1162,Sports-0,301,Moved Permanently,User 1-15,text,true,,642,126,42,42,http://www.daraz.com.bd/cycling/,1161,0,96
+1702027805682,33044,Sports-1,200,OK,User 1-15,text,true,,508322,126,42,42,https://www.daraz.com.bd/cycling/,752,0,193
+1702027822974,15866,Catagories,200,OK,User 1-37,text,true,,495774,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,3943,0,1107
+1702027822974,3943,Catagories-0,301,Moved Permanently,User 1-37,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,3943,0,1107
+1702027826918,11922,Catagories-1,200,OK,User 1-37,text,true,,495112,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1741,0,1182
+1702027822396,16603,Catagories,200,OK,User 1-27,text,true,,495774,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,354,0,0
+1702027822396,354,Catagories-0,301,Moved Permanently,User 1-27,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,354,0,0
+1702027822751,16248,Catagories-1,200,OK,User 1-27,text,true,,495112,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,465,0,0
+1702027814211,25132,Catagories,200,OK,User 1-44,text,true,,495772,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,3125,0,2064
+1702027814211,3125,Catagories-0,301,Moved Permanently,User 1-44,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,3125,0,2064
+1702027817337,22006,Catagories-1,200,OK,User 1-44,text,true,,495110,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1074,0,587
+1702027824853,15665,Catagories,200,OK,User 1-32,text,true,,495375,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,150,0,0
+1702027824853,150,Catagories-0,301,Moved Permanently,User 1-32,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,150,0,0
+1702027825003,15515,Catagories-1,200,OK,User 1-32,text,true,,494713,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,867,0,0
+1702027823368,17872,Catagories,200,OK,User 1-19,text,true,,495774,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1205,0,1108
+1702027823368,1205,Catagories-0,301,Moved Permanently,User 1-19,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,1205,0,1108
+1702027824574,16666,Catagories-1,200,OK,User 1-19,text,true,,495112,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,670,0,211
+1702027823941,17360,Catagories,200,OK,User 1-36,text,true,,495756,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1288,0,1196
+1702027823941,1289,Catagories-0,301,Moved Permanently,User 1-36,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,1288,0,1196
+1702027825230,16071,Catagories-1,200,OK,User 1-36,text,true,,495094,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1110,0,642
+1702027812333,30579,HomePage,200,OK,User 1-24,text,true,,1165462,236,41,41,https://www.daraz.com.bd/,132,0,0
+1702027812333,132,HomePage-0,301,Moved Permanently,User 1-24,text,true,,634,118,41,41,http://www.daraz.com.bd/,132,0,0
+1702027812465,30447,HomePage-1,200,OK,User 1-24,text,true,,1164828,118,41,41,https://www.daraz.com.bd/,1013,0,0
+1702027815905,27745,Catagories,200,OK,User 1-13,text,true,,495758,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,258,0,162
+1702027815905,258,Catagories-0,301,Moved Permanently,User 1-13,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,258,0,162
+1702027816163,27487,Catagories-1,200,OK,User 1-13,text,true,,495096,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1089,0,507
+1702027797554,46945,HomePage,200,OK,User 1-40,text,true,,1166622,236,41,41,https://www.daraz.com.bd/,1420,0,481
+1702027797554,1420,HomePage-0,301,Moved Permanently,User 1-40,text,true,,634,118,41,41,http://www.daraz.com.bd/,1420,0,481
+1702027798975,45524,HomePage-1,200,OK,User 1-40,text,true,,1165988,118,41,41,https://www.daraz.com.bd/,1230,0,1142
+1702027828481,16057,Catagories,200,OK,User 1-49,text,true,,495757,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,788,0,690
+1702027828481,788,Catagories-0,301,Moved Permanently,User 1-49,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,788,0,690
+1702027829268,15270,Catagories-1,200,OK,User 1-49,text,true,,495095,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,700,0,202
+1702027828654,17314,Catagories,200,OK,User 1-12,text,true,,495385,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1571,0,517
+1702027828654,1571,Catagories-0,301,Moved Permanently,User 1-12,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,1571,0,517
+1702027830224,15744,Catagories-1,200,OK,User 1-12,text,true,,494723,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1255,0,725
+1702027832207,13997,Catagories,200,OK,User 1-42,text,true,,495748,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,169,0,0
+1702027832207,169,Catagories-0,301,Moved Permanently,User 1-42,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,169,0,0
+1702027832377,13827,Catagories-1,200,OK,User 1-42,text,true,,495086,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,918,0,0
+1702027818553,27968,Catagories,200,OK,User 1-31,text,true,,495750,292,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,393,0,71
+1702027818553,393,Catagories-0,301,Moved Permanently,User 1-31,text,true,,662,146,41,41,http://www.daraz.com.bd/womens-traditional-clothing/,393,0,71
+1702027818946,27575,Catagories-1,200,OK,User 1-31,text,true,,495088,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,1755,0,1176
+1702027806879,40158,HomePage,200,OK,User 1-6,text,true,,1165454,236,41,41,https://www.daraz.com.bd/,111,0,0
+1702027806879,111,HomePage-0,301,Moved Permanently,User 1-6,text,true,,634,118,41,41,http://www.daraz.com.bd/,111,0,0
+1702027806991,40046,HomePage-1,200,OK,User 1-6,text,true,,1164820,118,41,41,https://www.daraz.com.bd/,98,0,0
+1702027835278,12211,Sports,200,OK,User 1-23,text,true,,508980,252,41,41,https://www.daraz.com.bd/cycling/,762,0,88
+1702027835278,762,Sports-0,301,Moved Permanently,User 1-23,text,true,,642,126,41,41,http://www.daraz.com.bd/cycling/,762,0,88
+1702027836041,11448,Sports-1,200,OK,User 1-23,text,true,,508338,126,41,41,https://www.daraz.com.bd/cycling/,487,0,0
+1702027819672,28080,Catagories,200,OK,User 1-46,text,true,,495764,292,40,40,https://www.daraz.com.bd/womens-traditional-clothing/,215,0,114
+1702027819672,215,Catagories-0,301,Moved Permanently,User 1-46,text,true,,662,146,40,40,http://www.daraz.com.bd/womens-traditional-clothing/,215,0,114
+1702027819888,27864,Catagories-1,200,OK,User 1-46,text,true,,495102,146,40,40,https://www.daraz.com.bd/womens-traditional-clothing/,1993,0,1185
+1702027823413,24406,Catagories,200,OK,User 1-11,text,true,,495788,292,40,40,https://www.daraz.com.bd/womens-traditional-clothing/,239,0,144
+1702027823413,239,Catagories-0,301,Moved Permanently,User 1-11,text,true,,662,146,40,40,http://www.daraz.com.bd/womens-traditional-clothing/,239,0,144
+1702027823652,24167,Catagories-1,200,OK,User 1-11,text,true,,495126,146,40,40,https://www.daraz.com.bd/womens-traditional-clothing/,2216,0,813
+1702027828153,19783,Sports,200,OK,User 1-16,text,true,,511444,252,40,40,https://www.daraz.com.bd/cycling/,586,0,0
+1702027828153,586,Sports-0,301,Moved Permanently,User 1-16,text,true,,642,126,40,40,http://www.daraz.com.bd/cycling/,586,0,0
+1702027828740,19196,Sports-1,200,OK,User 1-16,text,true,,510802,126,40,40,https://www.daraz.com.bd/cycling/,383,0,0
+1702027829696,18563,Catagories,200,OK,User 1-20,text,true,,495788,292,39,39,https://www.daraz.com.bd/womens-traditional-clothing/,187,0,91
+1702027829696,187,Catagories-0,301,Moved Permanently,User 1-20,text,true,,662,146,39,39,http://www.daraz.com.bd/womens-traditional-clothing/,187,0,91
+1702027829883,18376,Catagories-1,200,OK,User 1-20,text,true,,495126,146,39,39,https://www.daraz.com.bd/womens-traditional-clothing/,1657,0,1146
+1702027833849,14634,HomePage,200,OK,User 1-25,text,true,,104220,236,39,39,https://www.daraz.com.bd/,109,0,0
+1702027833849,109,HomePage-0,301,Moved Permanently,User 1-25,text,true,,634,118,39,39,http://www.daraz.com.bd/,109,0,0
+1702027833959,14524,HomePage-1,200,OK,User 1-25,text,true,,103586,118,39,39,https://www.daraz.com.bd/,451,0,0
+1702027825953,22570,Catagories,200,OK,User 1-38,text,true,,495384,292,39,39,https://www.daraz.com.bd/womens-traditional-clothing/,169,0,68
+1702027825953,170,Catagories-0,301,Moved Permanently,User 1-38,text,true,,662,146,39,39,http://www.daraz.com.bd/womens-traditional-clothing/,169,0,68
+1702027826123,22400,Catagories-1,200,OK,User 1-38,text,true,,494722,146,39,39,https://www.daraz.com.bd/womens-traditional-clothing/,897,0,292
+1702027836370,12639,Sports,200,OK,User 1-33,text,true,,508964,252,39,39,https://www.daraz.com.bd/cycling/,380,0,0
+1702027836370,380,Sports-0,301,Moved Permanently,User 1-33,text,true,,642,126,39,39,http://www.daraz.com.bd/cycling/,380,0,0
+1702027836751,12258,Sports-1,200,OK,User 1-33,text,true,,508322,126,39,39,https://www.daraz.com.bd/cycling/,494,0,0
+1702027821262,28144,Catagories,200,OK,User 1-22,text,true,,495748,292,38,38,https://www.daraz.com.bd/womens-traditional-clothing/,209,0,76
+1702027821262,209,Catagories-0,301,Moved Permanently,User 1-22,text,true,,662,146,38,38,http://www.daraz.com.bd/womens-traditional-clothing/,209,0,76
+1702027821473,27933,Catagories-1,200,OK,User 1-22,text,true,,495086,146,38,38,https://www.daraz.com.bd/womens-traditional-clothing/,1202,0,610
+1702027813491,36153,HomePage,200,OK,User 1-14,text,true,,1166639,236,38,38,https://www.daraz.com.bd/,80,0,0
+1702027813491,80,HomePage-0,301,Moved Permanently,User 1-14,text,true,,634,118,38,38,http://www.daraz.com.bd/,80,0,0
+1702027813571,36073,HomePage-1,200,OK,User 1-14,text,true,,1166005,118,38,38,https://www.daraz.com.bd/,547,0,0
+1702027833000,18053,Catagories,200,OK,User 1-18,text,true,,495343,292,38,38,https://www.daraz.com.bd/womens-traditional-clothing/,186,0,94
+1702027833000,186,Catagories-0,301,Moved Permanently,User 1-18,text,true,,662,146,38,38,http://www.daraz.com.bd/womens-traditional-clothing/,186,0,94
+1702027833186,17867,Catagories-1,200,OK,User 1-18,text,true,,494681,146,38,38,https://www.daraz.com.bd/womens-traditional-clothing/,452,0,0
+1702027834835,16615,Sports,200,OK,User 1-45,text,true,,508938,252,38,38,https://www.daraz.com.bd/cycling/,83,0,0
+1702027834835,84,Sports-0,301,Moved Permanently,User 1-45,text,true,,642,126,38,38,http://www.daraz.com.bd/cycling/,83,0,0
+1702027834919,16531,Sports-1,200,OK,User 1-45,text,true,,508296,126,38,38,https://www.daraz.com.bd/cycling/,442,0,0
+1702027839000,13010,Sports,200,OK,User 1-27,text,true,,508969,252,37,37,https://www.daraz.com.bd/cycling/,535,0,96
+1702027839000,535,Sports-0,301,Moved Permanently,User 1-27,text,true,,642,126,37,37,http://www.daraz.com.bd/cycling/,535,0,96
+1702027839535,12475,Sports-1,200,OK,User 1-27,text,true,,508327,126,37,37,https://www.daraz.com.bd/cycling/,486,0,0
+1702027834469,17875,Catagories,200,OK,User 1-39,text,true,,495750,292,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,538,0,0
+1702027834469,538,Catagories-0,301,Moved Permanently,User 1-39,text,true,,662,146,36,36,http://www.daraz.com.bd/womens-traditional-clothing/,538,0,0
+1702027835007,17337,Catagories-1,200,OK,User 1-39,text,true,,495088,146,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,484,0,0
+1702027811958,40528,HomePage,200,OK,User 1-2,text,true,,1166652,236,36,36,https://www.daraz.com.bd/,98,0,0
+1702027811958,98,HomePage-0,301,Moved Permanently,User 1-2,text,true,,634,118,36,36,http://www.daraz.com.bd/,98,0,0
+1702027812057,40429,HomePage-1,200,OK,User 1-2,text,true,,1166018,118,36,36,https://www.daraz.com.bd/,519,0,0
+1702027827768,24791,Catagories,200,OK,User 1-1,text,true,,495787,292,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,3333,0,2161
+1702027827768,3333,Catagories-0,301,Moved Permanently,User 1-1,text,true,,662,146,36,36,http://www.daraz.com.bd/womens-traditional-clothing/,3333,0,2161
+1702027831101,21458,Catagories-1,200,OK,User 1-1,text,true,,495125,146,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,516,0,0
+1702027821900,31187,Catagories,200,OK,User 1-29,text,true,,495779,292,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,187,0,90
+1702027821900,187,Catagories-0,301,Moved Permanently,User 1-29,text,true,,662,146,36,36,http://www.daraz.com.bd/womens-traditional-clothing/,187,0,90
+1702027822087,31000,Catagories-1,200,OK,User 1-29,text,true,,495117,146,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,1712,0,1249
+1702027820857,32411,HomePage,200,OK,User 1-41,text,true,,1166628,236,36,36,https://www.daraz.com.bd/,117,0,0
+1702027820857,117,HomePage-0,301,Moved Permanently,User 1-41,text,true,,634,118,36,36,http://www.daraz.com.bd/,117,0,0
+1702027820974,32294,HomePage-1,200,OK,User 1-41,text,true,,1165994,118,36,36,https://www.daraz.com.bd/,95,0,0
+1702027838476,16054,Sports,200,OK,User 1-5,text,true,,508962,252,36,36,https://www.daraz.com.bd/cycling/,183,0,92
+1702027838476,184,Sports-0,301,Moved Permanently,User 1-5,text,true,,642,126,36,36,http://www.daraz.com.bd/cycling/,183,0,92
+1702027838660,15870,Sports-1,200,OK,User 1-5,text,true,,508320,126,36,36,https://www.daraz.com.bd/cycling/,596,0,0
+1702027837488,17528,Sports,200,OK,User 1-43,text,true,,508938,252,35,35,https://www.daraz.com.bd/cycling/,515,0,0
+1702027837488,515,Sports-0,301,Moved Permanently,User 1-43,text,true,,642,126,35,35,http://www.daraz.com.bd/cycling/,515,0,0
+1702027838003,17013,Sports-1,200,OK,User 1-43,text,true,,508296,126,35,35,https://www.daraz.com.bd/cycling/,485,0,0
+1702027838842,16785,Sports,200,OK,User 1-37,text,true,,508948,252,34,34,https://www.daraz.com.bd/cycling/,96,0,0
+1702027838842,96,Sports-0,301,Moved Permanently,User 1-37,text,true,,642,126,34,34,http://www.daraz.com.bd/cycling/,96,0,0
+1702027838937,16690,Sports-1,200,OK,User 1-37,text,true,,508306,126,34,34,https://www.daraz.com.bd/cycling/,470,0,0
+1702027840518,15265,Sports,200,OK,User 1-32,text,true,,508978,252,33,33,https://www.daraz.com.bd/cycling/,108,0,0
+1702027840518,108,Sports-0,301,Moved Permanently,User 1-32,text,true,,642,126,33,33,http://www.daraz.com.bd/cycling/,108,0,0
+1702027840626,15157,Sports-1,200,OK,User 1-32,text,true,,508336,126,33,33,https://www.daraz.com.bd/cycling/,511,0,0
+1702027844540,12172,Sports,200,OK,User 1-49,text,true,,508953,252,32,32,https://www.daraz.com.bd/cycling/,105,0,0
+1702027844540,105,Sports-0,301,Moved Permanently,User 1-49,text,true,,642,126,32,32,http://www.daraz.com.bd/cycling/,105,0,0
+1702027844646,12066,Sports-1,200,OK,User 1-49,text,true,,508311,126,32,32,https://www.daraz.com.bd/cycling/,393,0,0
+1702027817391,39538,HomePage,200,OK,User 1-3,text,true,,1166645,236,31,31,https://www.daraz.com.bd/,2395,0,0
+1702027817391,2395,HomePage-0,301,Moved Permanently,User 1-3,text,true,,634,118,31,31,http://www.daraz.com.bd/,2395,0,0
+1702027819786,37143,HomePage-1,200,OK,User 1-3,text,true,,1166011,118,31,31,https://www.daraz.com.bd/,106,0,0
+1702027841240,15805,Sports,200,OK,User 1-19,text,true,,511490,252,31,31,https://www.daraz.com.bd/cycling/,107,0,0
+1702027841240,107,Sports-0,301,Moved Permanently,User 1-19,text,true,,642,126,31,31,http://www.daraz.com.bd/cycling/,107,0,0
+1702027841348,15697,Sports-1,200,OK,User 1-19,text,true,,510848,126,31,31,https://www.daraz.com.bd/cycling/,398,0,0
+1702027837544,19707,Sports,200,OK,User 1-47,text,true,,508930,252,30,30,https://www.daraz.com.bd/cycling/,652,0,0
+1702027837544,652,Sports-0,301,Moved Permanently,User 1-47,text,true,,642,126,30,30,http://www.daraz.com.bd/cycling/,652,0,0
+1702027838196,19055,Sports-1,200,OK,User 1-47,text,true,,508288,126,30,30,https://www.daraz.com.bd/cycling/,521,0,0
+1702027835938,22118,Catagories,200,OK,User 1-30,text,true,,495750,292,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,93,0,0
+1702027835938,93,Catagories-0,301,Moved Permanently,User 1-30,text,true,,662,146,29,29,http://www.daraz.com.bd/womens-traditional-clothing/,93,0,0
+1702027836032,22024,Catagories-1,200,OK,User 1-30,text,true,,495088,146,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,667,0,0
+1702027828852,29310,HomePage,200,OK,User 1-26,text,true,,1166620,236,29,29,https://www.daraz.com.bd/,2772,0,0
+1702027828852,2772,HomePage-0,301,Moved Permanently,User 1-26,text,true,,634,118,29,29,http://www.daraz.com.bd/,2772,0,0
+1702027831624,26538,HomePage-1,200,OK,User 1-26,text,true,,1165986,118,29,29,https://www.daraz.com.bd/,97,0,0
+1702027847037,11427,Catagories,200,OK,User 1-6,text,true,,495790,292,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,191,0,94
+1702027847037,191,Catagories-0,301,Moved Permanently,User 1-6,text,true,,662,146,29,29,http://www.daraz.com.bd/womens-traditional-clothing/,191,0,94
+1702027847228,11236,Catagories-1,200,OK,User 1-6,text,true,,495128,146,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,525,0,0
+1702027826388,32576,Catagories,200,OK,User 1-8,text,true,,495407,292,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,1141,0,1065
+1702027826388,1141,Catagories-0,301,Moved Permanently,User 1-8,text,true,,662,146,29,29,http://www.daraz.com.bd/womens-traditional-clothing/,1141,0,1065
+1702027827529,31435,Catagories-1,200,OK,User 1-8,text,true,,494745,146,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,714,0,217
+1702027845970,13002,Sports,200,OK,User 1-12,text,true,,508977,252,29,29,https://www.daraz.com.bd/cycling/,130,0,0
+1702027845970,130,Sports-0,301,Moved Permanently,User 1-12,text,true,,642,126,29,29,http://www.daraz.com.bd/cycling/,130,0,0
+1702027846100,12872,Sports-1,200,OK,User 1-12,text,true,,508335,126,29,29,https://www.daraz.com.bd/cycling/,597,0,0
+1702027838096,21313,Catagories,200,OK,User 1-21,text,true,,495343,292,28,28,https://www.daraz.com.bd/womens-traditional-clothing/,190,0,96
+1702027838096,190,Catagories-0,301,Moved Permanently,User 1-21,text,true,,662,146,28,28,http://www.daraz.com.bd/womens-traditional-clothing/,190,0,96
+1702027838287,21122,Catagories-1,200,OK,User 1-21,text,true,,494681,146,28,28,https://www.daraz.com.bd/womens-traditional-clothing/,530,0,0
+1702027842912,16565,Catagories,200,OK,User 1-24,text,true,,495391,292,28,28,https://www.daraz.com.bd/womens-traditional-clothing/,2338,0,2127
+1702027842912,2338,Catagories-0,301,Moved Permanently,User 1-24,text,true,,662,146,28,28,http://www.daraz.com.bd/womens-traditional-clothing/,2338,0,2127
+1702027845252,14225,Catagories-1,200,OK,User 1-24,text,true,,494729,146,28,28,https://www.daraz.com.bd/womens-traditional-clothing/,515,0,0
+1702027841301,18277,Sports,200,OK,User 1-36,text,true,,508930,252,28,28,https://www.daraz.com.bd/cycling/,99,0,0
+1702027841301,99,Sports-0,301,Moved Permanently,User 1-36,text,true,,642,126,28,28,http://www.daraz.com.bd/cycling/,99,0,0
+1702027841401,18177,Sports-1,200,OK,User 1-36,text,true,,508288,126,28,28,https://www.daraz.com.bd/cycling/,447,0,0
+1702027844500,15119,Catagories,200,OK,User 1-40,text,true,,495351,292,27,27,https://www.daraz.com.bd/womens-traditional-clothing/,202,0,136
+1702027844500,202,Catagories-0,301,Moved Permanently,User 1-40,text,true,,662,146,27,27,http://www.daraz.com.bd/womens-traditional-clothing/,202,0,136
+1702027844703,14916,Catagories-1,200,OK,User 1-40,text,true,,494689,146,27,27,https://www.daraz.com.bd/womens-traditional-clothing/,518,0,0
+1702027849645,10090,Catagories,200,OK,User 1-14,text,true,,495406,292,27,27,https://www.daraz.com.bd/womens-traditional-clothing/,185,0,90
+1702027849645,185,Catagories-0,301,Moved Permanently,User 1-14,text,true,,662,146,27,27,http://www.daraz.com.bd/womens-traditional-clothing/,185,0,90
+1702027849830,9905,Catagories-1,200,OK,User 1-14,text,true,,494744,146,27,27,https://www.daraz.com.bd/womens-traditional-clothing/,620,0,0
+1702027848261,11992,Sports,200,OK,User 1-20,text,true,,508961,252,27,27,https://www.daraz.com.bd/cycling/,74,0,0
+1702027848261,74,Sports-0,301,Moved Permanently,User 1-20,text,true,,642,126,27,27,http://www.daraz.com.bd/cycling/,74,0,0
+1702027848335,11918,Sports-1,200,OK,User 1-20,text,true,,508319,126,27,27,https://www.daraz.com.bd/cycling/,449,0,0
+1702027848484,11836,Catagories,200,OK,User 1-25,text,true,,495796,292,26,26,https://www.daraz.com.bd/womens-traditional-clothing/,189,0,96
+1702027848484,189,Catagories-0,301,Moved Permanently,User 1-25,text,true,,662,146,26,26,http://www.daraz.com.bd/womens-traditional-clothing/,189,0,96
+1702027848674,11646,Catagories-1,200,OK,User 1-25,text,true,,495134,146,26,26,https://www.daraz.com.bd/womens-traditional-clothing/,546,0,0
+1702027839344,21317,Sports,200,OK,User 1-44,text,true,,510122,252,26,26,https://www.daraz.com.bd/cycling/,105,0,0
+1702027839344,105,Sports-0,301,Moved Permanently,User 1-44,text,true,,642,126,26,26,http://www.daraz.com.bd/cycling/,105,0,0
+1702027839450,21211,Sports-1,200,OK,User 1-44,text,true,,509480,126,26,26,https://www.daraz.com.bd/cycling/,488,0,0
+1702027847754,12913,Sports,200,OK,User 1-46,text,true,,508978,252,25,25,https://www.daraz.com.bd/cycling/,83,0,0
+1702027847754,83,Sports-0,301,Moved Permanently,User 1-46,text,true,,642,126,25,25,http://www.daraz.com.bd/cycling/,83,0,0
+1702027847838,12829,Sports-1,200,OK,User 1-46,text,true,,508336,126,25,25,https://www.daraz.com.bd/cycling/,389,0,0
+1702027843650,17392,Sports,200,OK,User 1-13,text,true,,508930,252,24,24,https://www.daraz.com.bd/cycling/,67,0,0
+1702027843650,67,Sports-0,301,Moved Permanently,User 1-13,text,true,,642,126,24,24,http://www.daraz.com.bd/cycling/,67,0,0
+1702027843718,17324,Sports-1,200,OK,User 1-13,text,true,,508288,126,24,24,https://www.daraz.com.bd/cycling/,775,0,0
+1702027846206,15096,Sports,200,OK,User 1-42,text,true,,511444,252,23,23,https://www.daraz.com.bd/cycling/,246,0,159
+1702027846206,246,Sports-0,301,Moved Permanently,User 1-42,text,true,,642,126,23,23,http://www.daraz.com.bd/cycling/,246,0,159
+1702027846452,14850,Sports-1,200,OK,User 1-42,text,true,,510802,126,23,23,https://www.daraz.com.bd/cycling/,409,0,0
+1702027853269,8387,Catagories,200,OK,User 1-41,text,true,,495779,292,22,22,https://www.daraz.com.bd/womens-traditional-clothing/,193,0,96
+1702027853269,193,Catagories-0,301,Moved Permanently,User 1-41,text,true,,662,146,22,22,http://www.daraz.com.bd/womens-traditional-clothing/,193,0,96
+1702027853462,8194,Catagories-1,200,OK,User 1-41,text,true,,495117,146,22,22,https://www.daraz.com.bd/womens-traditional-clothing/,716,0,188
+1702027846523,15685,Sports,200,OK,User 1-31,text,true,,508938,252,22,22,https://www.daraz.com.bd/cycling/,879,0,0
+1702027846523,879,Sports-0,301,Moved Permanently,User 1-31,text,true,,642,126,22,22,http://www.daraz.com.bd/cycling/,879,0,0
+1702027847403,14805,Sports-1,200,OK,User 1-31,text,true,,508296,126,22,22,https://www.daraz.com.bd/cycling/,432,0,0
+1702027852487,10108,Catagories,200,OK,User 1-2,text,true,,495748,292,21,21,https://www.daraz.com.bd/womens-traditional-clothing/,180,0,89
+1702027852487,180,Catagories-0,301,Moved Permanently,User 1-2,text,true,,662,146,21,21,http://www.daraz.com.bd/womens-traditional-clothing/,180,0,89
+1702027852667,9928,Catagories-1,200,OK,User 1-2,text,true,,495086,146,21,21,https://www.daraz.com.bd/womens-traditional-clothing/,1085,0,200
+1702027847821,15423,Sports,200,OK,User 1-11,text,true,,508962,252,21,21,https://www.daraz.com.bd/cycling/,89,0,0
+1702027847821,89,Sports-0,301,Moved Permanently,User 1-11,text,true,,642,126,21,21,http://www.daraz.com.bd/cycling/,89,0,0
+1702027847910,15334,Sports-1,200,OK,User 1-11,text,true,,508320,126,21,21,https://www.daraz.com.bd/cycling/,475,0,0
+1702027852561,11031,Sports,200,OK,User 1-1,text,true,,508946,252,20,20,https://www.daraz.com.bd/cycling/,93,0,0
+1702027852561,93,Sports-0,301,Moved Permanently,User 1-1,text,true,,642,126,20,20,http://www.daraz.com.bd/cycling/,93,0,0
+1702027852654,10938,Sports-1,200,OK,User 1-1,text,true,,508304,126,20,20,https://www.daraz.com.bd/cycling/,757,0,196
+1702027832041,31935,HomePage,200,OK,User 1-9,text,true,,1166636,236,19,19,https://www.daraz.com.bd/,185,0,91
+1702027832041,185,HomePage-0,301,Moved Permanently,User 1-9,text,true,,634,118,19,19,http://www.daraz.com.bd/,185,0,91
+1702027832226,31750,HomePage-1,200,OK,User 1-9,text,true,,1166002,118,19,19,https://www.daraz.com.bd/,335,0,233
+1702027852346,11655,Sports,200,OK,User 1-39,text,true,,508937,252,19,19,https://www.daraz.com.bd/cycling/,75,0,0
+1702027852346,75,Sports-0,301,Moved Permanently,User 1-39,text,true,,642,126,19,19,http://www.daraz.com.bd/cycling/,75,0,0
+1702027852421,11580,Sports-1,200,OK,User 1-39,text,true,,508295,126,19,19,https://www.daraz.com.bd/cycling/,489,0,0
+1702027849408,15555,Sports,200,OK,User 1-22,text,true,,508922,252,18,18,https://www.daraz.com.bd/cycling/,97,0,0
+1702027849408,97,Sports-0,301,Moved Permanently,User 1-22,text,true,,642,126,18,18,http://www.daraz.com.bd/cycling/,97,0,0
+1702027849505,15458,Sports-1,200,OK,User 1-22,text,true,,508280,126,18,18,https://www.daraz.com.bd/cycling/,455,0,0
+1702027853089,12342,Sports,200,OK,User 1-29,text,true,,508962,252,17,17,https://www.daraz.com.bd/cycling/,409,0,0
+1702027853089,409,Sports-0,301,Moved Permanently,User 1-29,text,true,,642,126,17,17,http://www.daraz.com.bd/cycling/,409,0,0
+1702027853499,11932,Sports-1,200,OK,User 1-29,text,true,,508320,126,17,17,https://www.daraz.com.bd/cycling/,476,0,0
+1702027829580,35964,HomePage,200,OK,User 1-35,text,true,,1166614,236,16,16,https://www.daraz.com.bd/,86,0,0
+1702027829580,86,HomePage-0,301,Moved Permanently,User 1-35,text,true,,634,118,16,16,http://www.daraz.com.bd/,86,0,0
+1702027829667,35877,HomePage-1,200,OK,User 1-35,text,true,,1165980,118,16,16,https://www.daraz.com.bd/,105,0,0
+1702027856931,8674,Catagories,200,OK,User 1-3,text,true,,495384,292,16,16,https://www.daraz.com.bd/womens-traditional-clothing/,204,0,90
+1702027856931,205,Catagories-0,301,Moved Permanently,User 1-3,text,true,,662,146,16,16,http://www.daraz.com.bd/womens-traditional-clothing/,204,0,90
+1702027857136,8469,Catagories-1,200,OK,User 1-3,text,true,,494722,146,16,16,https://www.daraz.com.bd/womens-traditional-clothing/,1079,0,545
+1702027859736,6463,Sports,200,OK,User 1-14,text,true,,508940,252,16,16,https://www.daraz.com.bd/cycling/,103,0,0
+1702027859736,103,Sports-0,301,Moved Permanently,User 1-14,text,true,,642,126,16,16,http://www.daraz.com.bd/cycling/,103,0,0
+1702027859840,6359,Sports-1,200,OK,User 1-14,text,true,,508298,126,16,16,https://www.daraz.com.bd/cycling/,735,0,297
+1702027848524,17917,Sports,200,OK,User 1-38,text,true,,508962,252,15,15,https://www.daraz.com.bd/cycling/,93,0,0
+1702027848524,93,Sports-0,301,Moved Permanently,User 1-38,text,true,,642,126,15,15,http://www.daraz.com.bd/cycling/,93,0,0
+1702027848618,17823,Sports-1,200,OK,User 1-38,text,true,,508320,126,15,15,https://www.daraz.com.bd/cycling/,563,0,0
+1702027858965,7567,Sports,200,OK,User 1-8,text,true,,509001,252,14,14,https://www.daraz.com.bd/cycling/,107,0,0
+1702027858965,107,Sports-0,301,Moved Permanently,User 1-8,text,true,,642,126,14,14,http://www.daraz.com.bd/cycling/,107,0,0
+1702027859072,7460,Sports-1,200,OK,User 1-8,text,true,,508359,126,14,14,https://www.daraz.com.bd/cycling/,534,0,0
+1702027859620,7369,Sports,200,OK,User 1-40,text,true,,508938,252,13,13,https://www.daraz.com.bd/cycling/,108,0,0
+1702027859620,108,Sports-0,301,Moved Permanently,User 1-40,text,true,,642,126,13,13,http://www.daraz.com.bd/cycling/,108,0,0
+1702027859728,7261,Sports-1,200,OK,User 1-40,text,true,,508296,126,13,13,https://www.daraz.com.bd/cycling/,1929,0,1420
+1702027858057,9010,Sports,200,OK,User 1-30,text,true,,510083,252,12,12,https://www.daraz.com.bd/cycling/,916,0,89
+1702027858057,916,Sports-0,301,Moved Permanently,User 1-30,text,true,,642,126,12,12,http://www.daraz.com.bd/cycling/,916,0,89
+1702027858974,8093,Sports-1,200,OK,User 1-30,text,true,,509441,126,12,12,https://www.daraz.com.bd/cycling/,445,0,0
+1702027862596,4539,Sports,200,OK,User 1-2,text,true,,508954,252,11,11,https://www.daraz.com.bd/cycling/,69,0,0
+1702027862596,69,Sports-0,301,Moved Permanently,User 1-2,text,true,,642,126,11,11,http://www.daraz.com.bd/cycling/,69,0,0
+1702027862665,4470,Sports-1,200,OK,User 1-2,text,true,,508312,126,11,11,https://www.daraz.com.bd/cycling/,429,0,0
+1702027851055,16129,Sports,200,OK,User 1-18,text,true,,508938,252,10,10,https://www.daraz.com.bd/cycling/,103,0,0
+1702027851055,104,Sports-0,301,Moved Permanently,User 1-18,text,true,,642,126,10,10,http://www.daraz.com.bd/cycling/,103,0,0
+1702027851159,16025,Sports-1,200,OK,User 1-18,text,true,,508296,126,10,10,https://www.daraz.com.bd/cycling/,489,0,0
+1702027859410,7851,Sports,200,OK,User 1-21,text,true,,508932,252,9,9,https://www.daraz.com.bd/cycling/,97,0,0
+1702027859410,97,Sports-0,301,Moved Permanently,User 1-21,text,true,,642,126,9,9,http://www.daraz.com.bd/cycling/,97,0,0
+1702027859507,7754,Sports-1,200,OK,User 1-21,text,true,,508290,126,9,9,https://www.daraz.com.bd/cycling/,502,0,0
+1702027858465,8856,Sports,200,OK,User 1-6,text,true,,508978,252,8,8,https://www.daraz.com.bd/cycling/,101,0,0
+1702027858465,102,Sports-0,301,Moved Permanently,User 1-6,text,true,,642,126,8,8,http://www.daraz.com.bd/cycling/,101,0,0
+1702027858567,8754,Sports-1,200,OK,User 1-6,text,true,,508336,126,8,8,https://www.daraz.com.bd/cycling/,913,0,201
+1702027865605,2815,Sports,200,OK,User 1-3,text,true,,508979,252,7,7,https://www.daraz.com.bd/cycling/,97,0,0
+1702027865605,98,Sports-0,301,Moved Permanently,User 1-3,text,true,,642,126,7,7,http://www.daraz.com.bd/cycling/,97,0,0
+1702027865703,2717,Sports-1,200,OK,User 1-3,text,true,,508337,126,7,7,https://www.daraz.com.bd/cycling/,436,0,0
+1702027863977,4469,Catagories,200,OK,User 1-9,text,true,,495795,292,6,6,https://www.daraz.com.bd/womens-traditional-clothing/,86,0,0
+1702027863977,86,Catagories-0,301,Moved Permanently,User 1-9,text,true,,662,146,6,6,http://www.daraz.com.bd/womens-traditional-clothing/,86,0,0
+1702027864064,4382,Catagories-1,200,OK,User 1-9,text,true,,495133,146,6,6,https://www.daraz.com.bd/womens-traditional-clothing/,547,0,0
+1702027859478,9390,Sports,200,OK,User 1-24,text,true,,508938,252,6,6,https://www.daraz.com.bd/cycling/,105,0,0
+1702027859478,105,Sports-0,301,Moved Permanently,User 1-24,text,true,,642,126,6,6,http://www.daraz.com.bd/cycling/,105,0,0
+1702027859583,9285,Sports-1,200,OK,User 1-24,text,true,,508296,126,6,6,https://www.daraz.com.bd/cycling/,2050,0,1566
+1702027858163,10806,Catagories,200,OK,User 1-26,text,true,,495758,292,5,5,https://www.daraz.com.bd/womens-traditional-clothing/,2411,0,2106
+1702027858163,2411,Catagories-0,301,Moved Permanently,User 1-26,text,true,,662,146,5,5,http://www.daraz.com.bd/womens-traditional-clothing/,2411,0,2106
+1702027860574,8395,Catagories-1,200,OK,User 1-26,text,true,,495096,146,5,5,https://www.daraz.com.bd/womens-traditional-clothing/,722,0,146
+1702027861657,7680,Sports,200,OK,User 1-41,text,true,,510138,252,5,5,https://www.daraz.com.bd/cycling/,87,0,0
+1702027861657,87,Sports-0,301,Moved Permanently,User 1-41,text,true,,642,126,5,5,http://www.daraz.com.bd/cycling/,87,0,0
+1702027861744,7593,Sports-1,200,OK,User 1-41,text,true,,509496,126,5,5,https://www.daraz.com.bd/cycling/,511,0,0
+1702027860321,9091,Sports,200,OK,User 1-25,text,true,,511301,252,4,4,https://www.daraz.com.bd/cycling/,92,0,0
+1702027860321,93,Sports-0,301,Moved Permanently,User 1-25,text,true,,642,126,4,4,http://www.daraz.com.bd/cycling/,92,0,0
+1702027860414,8998,Sports-1,200,OK,User 1-25,text,true,,510659,126,4,4,https://www.daraz.com.bd/cycling/,1061,0,240
+1702027868446,1481,Sports,200,OK,User 1-9,text,true,,508970,252,3,3,https://www.daraz.com.bd/cycling/,62,0,0
+1702027868446,62,Sports-0,301,Moved Permanently,User 1-9,text,true,,642,126,3,3,http://www.daraz.com.bd/cycling/,62,0,0
+1702027868509,1418,Sports-1,200,OK,User 1-9,text,true,,508328,126,3,3,https://www.daraz.com.bd/cycling/,451,0,0
+1702027865544,4788,Catagories,200,OK,User 1-35,text,true,,495740,292,2,2,https://www.daraz.com.bd/womens-traditional-clothing/,160,0,85
+1702027865544,160,Catagories-0,301,Moved Permanently,User 1-35,text,true,,662,146,2,2,http://www.daraz.com.bd/womens-traditional-clothing/,160,0,85
+1702027865704,4628,Catagories-1,200,OK,User 1-35,text,true,,495078,146,2,2,https://www.daraz.com.bd/womens-traditional-clothing/,439,0,0
+1702027868969,2459,Sports,200,OK,User 1-26,text,true,,508938,252,2,2,https://www.daraz.com.bd/cycling/,69,0,0
+1702027868969,69,Sports-0,301,Moved Permanently,User 1-26,text,true,,642,126,2,2,http://www.daraz.com.bd/cycling/,69,0,0
+1702027869039,2389,Sports-1,200,OK,User 1-26,text,true,,508296,126,2,2,https://www.daraz.com.bd/cycling/,419,0,0
+1702027870334,1544,Sports,200,OK,User 1-35,text,true,,508938,252,1,1,https://www.daraz.com.bd/cycling/,59,0,0
+1702027870334,59,Sports-0,301,Moved Permanently,User 1-35,text,true,,642,126,1,1,http://www.daraz.com.bd/cycling/,59,0,0
+1702027870393,1485,Sports-1,200,OK,User 1-35,text,true,,508296,126,1,1,https://www.daraz.com.bd/cycling/,544,0,118
